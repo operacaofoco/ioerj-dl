@@ -10,6 +10,35 @@ try:
 except ImportError:
   tqdm = None
 
+
+import fitz 
+import html 
+from unicodedata import normalize
+
+def para_txt(pdf_file, txt_file):
+  doc = fitz.open(pdf_file)
+  with open(txt_file, "w+")  as out:
+      for page in doc: 
+          txt = html.unescape(page.get_text('xhtml', 
+                                      flags = fitz.TEXT_DEHYPHENATE & fitz. TEXTFLAGS_SEARCH &
+                                      fitz.TEXT_PRESERVE_SPANS & fitz.TEXT_INHIBIT_SPACES & 
+                                      fitz.TEXTFLAGS_XHTML & ~fitz.TEXT_PRESERVE_IMAGES))
+          txt = txt.replace(' - ',' @@@ ').replace('- ','').replace(' @@@ ', ' - ')
+          txt = txt.replace('</div>','').replace('<div id="page0">','')
+          txt = re.sub(r"\<b\>\s*\<\/b\>", r'', txt)
+          txt = re.sub(r"\<p\>\s*\<\/p\>", r'', txt)
+          txt = re.sub(r"\<h3\>\s*\<\/h3\>", r'', txt)
+          txt = normalize('NFKD', txt).encode('ASCII', 'ignore').decode('ASCII')
+          txt = txt.replace('<h3><b>A</b></h3>','')
+          txt = re.sub(r"\<b\>\s*\<\/b\>", r'', txt)
+          txt = re.sub(r"\<p\>\s*\<\/p\>", r'', txt)
+          txt = re.sub(r"\<h3\>\s*\<\/h3\>", r'', txt)
+          txt = re.sub(r"\<h1\>\s*\<\/h1\>", r'', txt)
+          txt = re.sub(r"\s\s+", r' ', txt)
+          out.write(txt)
+  return txt
+
+
 gl = conf.Globals()
 
 ######################################## RECURSOS DE DOWNLOAD DO SITE IOERJ ##############################################
@@ -31,22 +60,26 @@ def defSoup(url, parser='html.parser'):
 def savePdf(urlPdf, conf):
 
   # diretório em que o pdf será salvo. Criar caso não exista
-  fullDir = Path(conf['diretorio'], str(conf['dataAtual'].year), str(conf['dataAtual'].month))
-  Path.mkdir(fullDir, exist_ok=True, parents=True)
+  fullDir_pdf = Path(conf['diretorio_pdf'])
+  Path.mkdir(fullDir_pdf, exist_ok=True, parents=True)
+  fullDir_txt = Path(conf['diretorio_txt'])
+  Path.mkdir(fullDir_txt, exist_ok=True, parents=True)
   # Nome do arquivo e caminho absoluto
-  nomeArq = '%s_%s.pdf' % (conf['dataAtual'].day, conf['caderno'])
-  nomeFull = Path(fullDir, nomeArq)
+  nomeArq_pdf = f"DO_{conf['dataAtual'].year}_{conf['dataAtual'].month}_{conf['dataAtual'].day}_{conf['caderno']}.pdf"
+  nomeArq_txt = f"DO_{conf['dataAtual'].year}_{conf['dataAtual'].month}_{conf['dataAtual'].day}_{conf['caderno']}.txt"
+  nomeFull_pdf = Path(fullDir_pdf, nomeArq_pdf)
+  nomeFull_txt = Path(fullDir_txt, nomeArq_txt)
 
   # exibir em interface GUI se estiver presente (modulo Pyforms)
   try:
-    conf['labelGUI'].value = 'Baixando %s' % nomeArq
+    conf['labelGUI'].value = 'Baixando %s' % nomeArq_pdf
   except KeyError:
-    print('Baixando %s' % nomeArq)
+    print('Baixando %s' % nomeArq_pdf)
   
   res = requests.get(urlPdf, stream=True, headers=gl.headers)
 
   # escreve DO na pasta definida
-  with open(nomeFull, 'wb') as f:
+  with open(nomeFull_pdf, 'wb') as f:
     # usa barra de progresso caso o módulo esteja disponível
     if tqdm:
       # cabeçalho da requisição para obter tamanho do arquivo e prever na barra de progresso
@@ -60,10 +93,11 @@ def savePdf(urlPdf, conf):
 
   # escreve uma cópia extra para DO de hoje
   if conf['tipoDownload'] == 'hoje':
-    nomeFull = Path(conf['diretorio'], 'IOERJ_Hoje_%s.pdf' % conf['caderno'])
+    nomeFull = Path(conf['diretorio_pdf'], 'IOERJ_Hoje_%s.pdf' % conf['caderno'])
     res = requests.get(urlPdf, stream=True, headers=gl.headers)
     with open(nomeFull, 'wb') as f:
       f.write(res.content)
+  para_txt(nomeFull_pdf, nomeFull_txt)
 
 #########################
 

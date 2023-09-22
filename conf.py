@@ -25,6 +25,7 @@ class Globals:
   cadernosDisponiveis = [
       'Parte I (Poder Executivo)', 'Parte IB - (Tribunal de Contas)', 'Parte II (Poder Legislativo)',
       'Parte IV (Municipalidades)', 'Parte V (Publicações a Pedido)']
+
   hoje = dt.date.today()
 
 
