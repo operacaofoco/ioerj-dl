@@ -9,7 +9,7 @@ conf = {
         'diretorio_pdf': 'pdfs/',
         'diretorio_txt': 'txts/',
         'cadernos': ['Parte I (Poder Executivo)'],
-        'dataInicio': fData('21/01/2022'),
+        'dataInicio': fData('21/09/2022'),
         'dataFim': fData('31/12/2023'),
 
     }

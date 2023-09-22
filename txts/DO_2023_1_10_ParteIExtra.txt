@@ -1,0 +1,979 @@
+
+<p>ESTA PARTE E EDITADA ELETRONICAMENTE DESDE 3 DE MARCO DE 2008</p>
+<p>ANO XLIX - No 007-A TERCA-FEIRA, 10 DE JANEIRO DE 2023 PARTE I <b>PODER EXECUTIVO</b></p>
+<p><b>GOVERNO DO ESTADO </b><b>www.rj.gov.br</b></p>
+<p>SECRETARIA DE ESTADO DO AMBIENTE E SUSTENTABILIDADE <i>Thiago Pampolha Goncalves - Interino </i>SECRETARIA DE ESTADO DE AGRICULTURA, PECUARIA, PESCA E ABASTECIMENTO <i>Jair de Siqueira Bittencourt Junior </i>SECRETARIA DE ESTADO DE CULTURA E ECONOMIA CRIATIVA <i>Danielle Christian Ribeiro Barros </i>SECRETARIA DE ESTADO DE DESENVOLVIMENTO SOCIAL E DIREITOS HUMANOS <i>Rosangela de Souza Gomes </i>SECRETARIA DE ESTADO DE ESPORTE E LAZER <i>Rafael Carneiro Monteiro Picciani </i>SECRETARIA DE ESTADO DE TURISMO <i>Gustavo Reis Ferreira </i>CONTROLADORIA GERAL DO ESTADO <i>Demetrio Abdennur Farah Neto </i>GABINETE DE SEGURANCA INSTITUCIONAL DO GOVERNO DO ESTADO DO RIO DE JANEIRO <i>Edu Guimaraes ce Souza </i>SECRETARIA DE ESTADO DE TRABALHO E RENDA <i>Kelly Christian Silveira de Mattos </i>SECRETARIA EXTRAORDINARIA DE REPRESENTACAO DO GOVERNO EM BRASILIA <i>Andre Luis Dantas Ferreira </i>SECRETARIA DE ESTADO DE TRANSFORMACAO DIGITAL <i>Jose Mauro de Farias Junior </i>SECRETARIA DE ESTADO DE INFRAESTRUTURA E CIDADES <i>Uruan Cintra de Andrade</i></p>
+<p>SECRETARIA DE ESTADO DE OLEO, GAS E ENERGIA <i>Hugo Leal Melo da Silva</i></p>
+<p>SECRETARIA DE ESTADO DE HABITACAO <i>Bruno Felgueira Dauaire </i>SECRETARIA DE ESTADO INTERGERACIONAL DE JUVENTUDE E ENVELHECIMENTO SAUDAVEL <i>Alexandre Isquierdo Moreira </i>SECRETARIA DE ESTADO DA MULHER <i>Heloisa Helena de Alencar Aguiar </i>PROCURADORIA GERAL DO ESTADO <i>Bruno Dubeux</i></p>
+<p><b>ORGAOS DO PODER EXECUTIVO</b></p>
+<p>SECRETARIA DE ESTADO DA CASA CIVIL <i>Nicola Moreira Miccione </i>SECRETARIA DE ESTADO DO GABINETE DO GOVERNADOR <i>Rodrigo Ratkus Abel </i>SECRETARIA DE ESTADO DE GOVERNO <i>Rodrigo da Silva Bacellar </i>SECRETARIA DE ESTADO DE PLANEJAMENTO E GESTAO <i>Nelson Monteiro da Rocha </i>SECRETARIA DE ESTADO DE FAZENDA <i>Leonardo Lobo Pires </i>SECRETARIA DE ESTADO DE DESENVOLVIMENTO ECONOMICO, INDUSTRIA E COMERCIO <i>Vinicius Medeiros Farah </i>SECRETARIA DE ESTADO DE POLICIA MILITAR <i>Luiz Henrique Marinho Pires </i>SECRETARIA DE ESTADO DE POLICIA CIVIL <i>Fernando Antonio Paes de Andrade Albuquerque </i>SECRETARIA DE ESTADO DE ADMINISTRACAO PENITENCIARIA <i>Maria Rosa Lo Duca Nebel </i>SECRETARIA DE ESTADO DE DEFESA CIVIL <i>Leandro Sampaio Monteiro </i>SECRETARIA DE ESTADO DE SAUDE <i>Luiz Antonio de Souza Teixeira Junior </i>SECRETARIA DE ESTADO DE EDUCACAO <i>Patricia Helena dos Reis Barbastefano </i>SECRETARIA DE ESTADO DE CIENCIA, TECNOLOGIA E INOVACAO <i>Sergio Luiz Costa Azevedo Filho </i>SECRETARIA DE ESTADO DE TRANSPORTE E MOBILIDADE URBANA W<i>ashington Reis de Oliveira</i></p>
+<p>GOVERNADOR <b><i>Claudio Bomfim de Castro e Silva</i></b></p>
+<p>VICE-GOVERNADOR <b><i>Thiago Pampolha Goncalves</i></b></p>
+<p>S U M A R I O</p>
+<p><b>Atos do Poder Legislativo</b>............................................................... ...</p>
+<p><b>Atos do Poder Executivo</b>................................................................. 1</p>
+<p>Gabinete do Governador............................................................ 11</p>
+<p>Governadoria do Estado ............................................................. ...</p>
+<p>Gabinete do Vice-Governador ...................................................... ...</p>
+<p>Vice-Governadoria do Estado....................................................... ...</p>
+<p><b>ORGAOS DA CHEFIA DO PODER EXECUTIVO (Secretarias de Estado)</b></p>
+<p>Casa Civil ............................................................................... 11</p>
+<p>Gabinete do Governador............................................................. ...</p>
+<p>Governo .................................................................................. ... Planejamento e Gestao .............................................................. ... Fazenda .................................................................................. ... Desenvolvimento Economico, Industria e Comercio .......................... ... Policia Militar............................................................................ ... Policia Civil .............................................................................. ... Administracao Penitenciaria ......................................................... ... Defesa Civil.............................................................................. ... Saude ..................................................................................... ... Educacao ................................................................................. ... Ciencia, Tecnologia e Inovacao .................................................... ... Transportes e Mobilidade Urbana ................................................. ... Ambiente e Sustentabilidade........................................................ ... Agricultura, Pecuaria, Pesca e Abastecimento................................. ... Cultura e Economia Criativa ........................................................ ... Desenvolvimento Social e Direitos Humanos................................... ... Esporte e Lazer ........................................................................ ... Turismo ................................................................................... ... Controladoria Geral do Estado ..................................................... ... Gabinete de Seguranca Institucional do Governo do Estado do Rio de Janeiro... ... Trabalho e Renda...................................................................... ... Extraordinaria de Representacao do Governo em Brasilia ................. ... Transformacao Digital................................................................. ... Infraestrutura e Cidades.............................................................. ... Oleo, Gas e Energia.................................................................. ... Habitacao ................................................................................. ... Intergeracional de Juventude e Envelhecimento Saudavel ................. ... Mulher ..................................................................................... ... Procuradoria Geral do Estado...................................................... ...</p>
+<p><b>AVISOS, EDITAIS E TERMOS DE CONTRATO</b> .................................... ...</p>
+<p><b>REPARTICOES FEDERAIS</b> ............................................................... ...</p>
+<p><b>ATOS DO PODER EXECUTIVO</b></p>
+<p><b>DECRETO No 48.312 DE 10 DE JANEIRO DE 2023</b></p>
+<p><b>ALTERA, SEM AUMENTO DE DESPESA, A ESTRUTURA ORGANIZACIONAL DA SECRETARIA DE ESTADO DE TRANSPORTE E MOBILIDADE URBANA - SETRAM, E DA OUTRAS PROVIDENCIAS</b>. <b>O GOVERNADOR DO ESTADO DO RIO DE JANEIRO</b>, no uso das atribuicoes constitucionais e legais, e o contido no processo no SEI100001/000082/2023,</p>
+<p><b>CONSIDERANDO</b>:</p>
+<p>o Decreto no 46.607, que dispoe sobre a estrutura da Secretaria de Estado de Transportes;</p>
+<p>a necessidade de observar os principios que orientam a Administracao Publica, esculpidos no artigo 37 da CRFB/88;</p>
+<p>que a reforma administrativa trara para o Estado do Rio de janeiro maior eficiencia nos atos de gestao;</p>
+<p>que a presente reforma administrativa nao acarretara em aumento de despesa; e - que compete, privativamente, ao Governador dispor sobre a organizacao e o funcionamento da administracao estadual.</p>
+<p><b>D E C R E TA </b>:</p>
+<p><b>Art. 1o</b> - Fica alterada a estrutura organizacional da Secretaria de Estado de Transporte e Mobilidade Urbana - SETRAM, sem aumento de despesa, na forma abaixo indicada:</p>
+<p>Orgaos de Assistencia Direta e Imediata ao Secretario de Estado de Transportes 1. Gabinete do Secretario 1.1. Assessoria Juridica 1.2. Assessoria de Comunicacao Social 1.3. Auditoria 1.4. Corregedoria 1.5. Assessoria de Governanca 1.6. Ouvidoria 1.7. Assessoria de Planejamento e Gestao 1.8. Assessoria de Relacoes Institucionais 1.9. Superintendencia de Investigacao e Prevencao de Acidentes Metroferroviarios 1.10. Assessoria Tecnica 1.11. Chefia do Gabinete 1.11.1. Assessoria de Tecnologia da Informacao 1.11.2. Departamento Geral de Administracao e Financas 1.11.2.1. Coordenadoria de Gestao de Pessoas 1.11.2.2. Coordenadoria de Gestao Documental 1.11.2.3. Coordenadoria de Contabilidade 1.11.2.4. Coordenadoria de Administracao Financeira 1.11.2.5. Coordenadoria de Servicos Gerais 1.11.2.6. Coordenadoria de Material e Patrimonio 1.11.2.7. Coordenadoria de Gestao do Bilhete Unico Intermunicipal Orgaos Especificos vinculados ao Secretario de Estado de Transportes e Mobilidade Urbana - SETRAM</p>
+<p>2. Subsecretaria Executiva 2.1. Assessoria Tecnica 2.2. Assessoria de Projetos de Mobilidade 2.3. Assessoria de Transporte Aquaviario 2.4. Assessoria de Transporte Aeroviario Regional 2.5. Superintendencia de Mobilidade Urbana 2.6. Coordenadoria de Gestao do Vale Social</p>
+<p>3. Subsecretaria de Logistica 3.1. Assessoria Tecnica 3.2. Assessoria de Projetos Especiais 3.3. Superintendencia de Bilhetagem Eletronica 3.4. Superintendencia de Logistica e Cargas</p>
+<p>Orgaos Colegiados 5. Conselho Estadual de Transportes e LogisticaCETL</p>
+<p>Entes Vinculados e/ou Supervisionados 6. Companhia Estadual de Engenharia de Transportes e Logistica - CENTRAL; 7. Companhia de Desenvolvimento Rodoviario e Terminais do Estado do Rio de Janeiro - CODERTE; 8. Departamento de Transportes Rodoviarios do Estado do Rio de Janeiro - DETRO; 9. Companhia de Transportes sobre Trilhos do Estado do Rio de Janeiro - RIOTRILHOS; 10. Fundo Estadual de Transportes - FET.</p>
+<p><b>Art. 2o - </b>Ficam alteradas as denominacoes dos Orgaos da estrutura da SETRAM, conforme especificado no Anexo I.</p>
+<p><b>Art. 3o -</b> Ficam transformados, sem aumento de despesa, para atender a estrutura da SETRAM, os cargos em comissao relacionados no Anexo II ao presente Decreto e na forma ali mencionada.</p>
+<p><b>Art. 4o</b> - O Anexo III contem exoneracoes e nomeacoes de cargos comissionados da estrutura da SETRAM, decorrentes das alteracoes estabelecidas no presente Decreto.</p>
+<p><b>Art. 5o</b> - Este decreto entrara em vigor na data de sua publicacao.</p>
+<p>Rio de Janeiro,10 de janeiro de 2023</p>
+<p><b>CLAUDIO CASTRO </b>Governador</p>
+<p><b>ANEXO I</b></p>
+<p><b>Quadro de alteracao de nomenclaturas de orgaos ORGAO NOVA SUBORDINACAO</b></p>
+<p>Subsecretaria de Mobilidade e Integracao Modal Subsecretaria Executiva</p>
+<p>Superintendencia de Transporte Aeroviario Regional Superintendencia de Bilhetagem Eletronica</p>
+<p>Superintendencia de Transporte Aquaviario Superintendencia de Mobilidade Urbana</p>
+<p><b>ANEXO II</b></p>
+<p><b>CARGOS EM COMISSAO TRANSFORMADOS NO AMBITO DA SECRETARIA DE ESTADO DE TRANSPORTE E MOBILIDADE URBANA</b></p>
+<p><b>Cargos a serem transformados Cargos resultante da transformacao</b></p>
+<p><b>Simbolo Cargo Qtde. Simbolo Cargo Qtde.</b></p>
+<p><b>DAS-8 Assessor (1) 1 DAS-8 Assessor Chefe (Assessoria de Transporte Aquaviario) 1</b></p>
+<p><b>DAS-7 Assessor (2) 1 DAS-7 Assessor-Chefe (Assessoria de Transporte Aeroviario Regional) 1</b></p>
+<p>Ultimos ocupantes: (1) - GERARD ANDRES FISCHGOLD, ID Funcional 4423781-2 (2) - RODRIGO RABELO DE MATOS SILVA, ID Funcional 5100554-9</p>
+<p><b>ANEXO III EXONERACOES DE CARGOS COMISSIONADOS</b></p>
+<p><b>O C U PA N T E ID FUNCIONAL CARGO EM COMISSAO SIMBOLO ORGAO</b></p>
+<p>ALEXANDRE ALCORTA DAIUTO 5125752-1 SUBSECRETARIO DE ESTADO SS SUBS. DE MOBILIDADE E INTEGRACAO MODAL</p>
+<p>CARLOS HENRIQUE NETTO VAZ 5101549-8 SUBSECRETARIO DE ESTADO <b>SS </b>SUBSECRETARIA DE LOGISTICA</p>  <p> C </p>
+<h3>DIARIO OFICIAL PARTE I - PODER EXECUTIVO</h3>
+<p>Servico de Atendimento ao Cliente da Imprensa Oficial do Estado do Rio de Janeiro: Tel.: (21) 2717-7840.</p>
+<p>Os textos e reclamacoes sobre publicacoes de materias deverao ser encaminhados a Assessoria para Preparo e Publicacoes dos Atos Oficiais - a Rua Pinheiro Machado, s/no - (Palacio Guanabara - Casa Civil), Laranjeiras, Rio de Janeiro - RJ, Brasil - CEP 22.231-901 Tels.: (21) 2334-3242 e 2334-3244</p>
+<p>As materias para publicacao deverao ser enviadas pelo sistema edof s ou entregues em midia eletronica nas Agencias Rio e Niteroi.</p>
+<p>cm/col __________________________________________ <b>R$ 132,00</b></p>
+<p><b>RIO </b>Rua Sao Jose, 35, sl. 222/24 - Centro - Rio de Janeiro Ed. Garagem Menezes Cortes - Tel.: (21) 2332-6550 / (21) 2332-6549 Email.: agerio@ioerj.rj.gov.br Atendimento das 8h as 17h</p>
+<p><b>NITEROI </b>Rua Professor Heitor Carrilho, no 81 - Centro - Niteroi/RJ. Tel.: (21) 2719-2689 / (21) 2719-2705 Atendimento das 8h as 17h.</p>
+<p>AGENCIAS DA IMPRENSA OFICIAL PUBLICACOES</p>
+<p><b>RECLAMACOES SOBRE PUBLICACOES DE MATERIAS:</b> Deverao ser dirigidas, por escrito, a Diretora-Presidente da Imprensa Oficial do Estado do Rio de Janeiro, no maximo ate 10 (dez) dias apos a data de sua publicacao.</p>
+<p><b>PRECO PARA PUBLICACAO:</b></p>
+<p><b>PARTE I - PODER EXECUTIVO:</b></p>
+<p><b>ENVIO DE MATERIAS:</b></p>
+<p><b>Patricia Damasceno </b>Diretora-Presidente</p>
+<p><b>Flavio Cid </b>Diretor Administrativo</p>
+<p><b>Rodrigo de Mesquita Caldas </b>Diretor Financeiro</p>
+<p><b>Jefferson Woldaynsky </b>Diretor Industrial</p>
+<p>LEONARDO BRUNO OLIVEIRA CERQUEIRA 5125491-3 SUPERINTENDENTE DG SUPERINTENDENCIA DE TRANSPORTE AEROVIARIO REGIONAL</p>
+<p>CAROLINE ALVES GONZAGA 5017181-0 SUPERINTENDENTE DG SUPERINTENDENCIA DE TRANSPORTE AQUAVIARIO</p>
+<p>EDUARDO VERANO MAURO 5128458-8 ASSESSOR-CHEFE DAS-8 ASSESSORIA DE GOVERNANCA</p>
+<p><b>NOMEACOES DE CARGOS COMISSIONADOS</b></p>
+<p><b>O C U PA N T E ID FUNCIONAL CARGO EM COMISSAO SIMBOLO ORGAO ULTIMO OCUPANTE</b></p>
+<p>CARLOS HENRIQUE NETTO VAZ 510.549-8 Subsecretario de Estado SS Subsecretaria Executiva ALEXANDRE ALCORTA DAIUTO</p>
+<p>JOAO CARLOS GRILO CARLETTI 4349410-2 Subsecretario de Estado SS Subsecretaria de Logistica CARLOS HENRIQUE NETTO VAZ</p>
+<p>ALEXANDRE ALCORTA DAIUTO 5125752-1 Superintendente DG Superintendencia de Bilhetagem Eletronica LEONARDO BRUNO OLIVEIRA CERQUEIRA</p>
+<p>EDUARDO VERANO MAURO 5128458-8 Superintendente DG Superintendencia de Mobilidade Urbana CAROLINE ALVES GONZAGA</p>
+<p>LEONARDO BRUNO OLIVEIRA CERQUEIRA 5125491-3 Assessor-Chefe DAS-7 Assessoria de Transporte Aeroviario Regional Decreto no 48.312</p>
+<p>CAROLINE ALVES GONZAGA 5017181-0 Assessor-Chefe DAS-8 Assessoria de Transporte Aquaviario Decreto no 48.312</p>
+<p><b>Id: 2451180</b></p>
+<p><b>DECRETO No 48.313 DE 10 DE JANEIRO DE 2023</b></p>
+<p><b>DISPOE, SEM AUMENTO DE DESPESA, SOBRE A ESTRUTURA ORGANIZACIONAL DA SECRETARIA DE ESTADO INTERGERACIONAL DE JUVENTUDE E ENVELHECIMENTO SAUDAVEL - SEIJES, E DA OUTRAS PROVIDENCIAS.</b></p>
+<p><b>O GOVERNADOR DO ESTADO DO RIO DE JANEIRO</b>, em exercicio, no uso de suas atribuicoes constitucionais e legais, e tendo em vista o que consta do Processo no SEI-150001/000877/2023,</p>
+<p><b>CONSIDERANDO:</b></p>
+<p>a necessidade de observar os principios que orientam a Administracao Publica esculpidos no artigo 37 da Constituicao Federal;</p>
+<p>que a presente estrutura organizacional nao acarretara em aumento de despesa;</p>
+<p>que compete, privativamente, ao Governador dispor sobre a organizacao e o funcionamento da administracao estadual,</p>
+<p><b>D E C R E TA :</b></p>
+<p><b>Art. 1o</b> - Fica criada a estrutura organizacional basica da Secretaria de Estado Intergeracional de Juventude e Envelhecimento Saudavel -SEIJES, na forma abaixo indicada:</p>
+<p><b>Paragrafo Unico</b> - Em consequencia do disposto no caput deste artigo, ficam transferidos os Entes Vinculados relacionados na estrutura abaixo, da extinta Secretaria de Estado de Acao Comunitaria e Juventude e da Secretaria de Estado de Desenvolvimento Social e Direitos Humanos, para a estrutura da Secretaria de Estado Intergeracional de Juventude e Envelhecimento Saudavel (SEIJES).</p>
+<p><b>1. Gabinete do Secretario 1.1 Chefia de Gabinete </b>1.1.1 Assessoria Especial de Assuntos Estrategicos 1.1.2 Ouvidoria 1.1.3 Assessoria de Comunicacao 1.1.4 Assessoria de Orgaos Colegiados</p>
+<p><b>1.2 Superintendencia de Gestao </b>1.2.1 Coordenadoria Geral de Administracao 1.2.1.1 Divisao de Contratos e Convenios 1.2.1.2 Divisao de Licitacao e Cotacao 1.2.1.3 Divisao de Protocolo 1.2.1.4 Divisao de Transporte 1.2.1.5 Divisao Informatica e SEI 1.2.1.6 Divisao de Recursos Humanos 1.2.2 Coordenadoria Geral Financeira 1.2.2.1 Divisao Financeira 1.2.2.2 Divisao de Pagamento 1.2.2.3 Divisao de Contabil e Controle Interno</p>
+<p><b>1.3 Superintendencia do Idoso </b>1.3.1 Coordenadoria dos Centros de Referencias 1.3.2 Coordenadoria do Conselho do Idoso 1.3.3 Coordenadoria de Politicas Publicas 1.3.4 Coordenadoria Regional 1.3.4.1 Divisao Capital 1 1.3.4.1.1 Nucleo Centro Sul Fluminense 1.3.4.1.2 Nucleo Costa Verde 1.3.4.1.3 Nucleo Serrana 1.3.4.1.4 Nucleo Baixada Fluminense 1.3.4.2 Divisao Capital 2 1.3.4.2.1 Nucleo Medio Paraiba 1.3.4.2.2 Nucleo Noroeste Fluminense 1.3.4.2.3 Nucleo Norte Fluminense 1.3.4.2.4 Nucleo Metropolitana</p>
+<p><b>1.4 Superintendencia da Juventude </b>1.4.1 Coordenadoria de Projetos e Eventos 1.4.2 Coordenadoria do Conselho da Juventude 1.4.3 Coordenadoria dos CRJ'S 1.4.3.1 Divisao Capital 1 1.4.3.1.1 Nucleo Centro Sul Fluminense 1.4.3.1.2 Nucleo Costa Verde 1.4.3.1.3 Nucleo Serrana 1.4.3.1.4 Nucleo Baixada Fluminense 1.4.3.2 Divisao Capital 2 1.4.3.2.1 Nucleo Medio Paraiba 1.4.3.2.2 Nucleo Noroeste Fluminense 1.4.3.2.3 Nucleo Norte Fluminense 1.4.3.2.4 Nucleo Metropolitana</p>
+<p><b>2. Entes Vinculados </b>2.1 Fundo Estadual de Juventude - FUNJOVEM 2.2 Conselho Estadual de Juventude - COJUERJ 2.3 Fundo para Defesa e Direitos da Pessoa Idosa - FUNDEPI 2.4 Conselho Estadual dos Direitos da Pessoa Idosa - CEDEPI</p>
+<p><b>Art. 2o -</b> A Secretaria de Estado Intergeracional de Juventude e Envelhecimento Saudavel (SEIJES), sera regida por um Secretario de Estado, simbolo SE, objeto de transferencia estabelecida de acordo com Anexo Unico do Decreto no 48.301, de 01/01/2023, da extinta Secretaria de Estado de Envelhecimento Saudavel.</p>
+<p><b>Art. 3o</b> - Ficam transferidos, sem aumento de despesa, os cargos em comissao, vagos e/ou ocupados, com suas respectivas Gratificacoes por Encargos Especiais (GEEs), na forma mencionada no Anexo Unico. <b>Art. 4o</b> - Tambem ficam transferidos os Programas de Trabalho, com os respectivos orcamentos, bens moveis e imoveis, contratos e congeneres, da Secretaria de Estado de Envelhecimento Saudavel (SEENVS) e da Secretaria de Estado de Acao Comunitaria e Juventude (SEACJ), para a recem-criada Secretaria de Estado Intergeracional de Juventude e Envelhecimento Saudavel (SEIJES), inclusive a manutencao de todas as obrigacoes de regularizacao patrimonial de bens moveis e imoveis, de assuncao de responsabilidade pelas despesas e demais obrigacoes dos contratos vigentes, sendo mantido para a SEIJES, o mesmo CNPJ da SEENVS, com seus respectivos encargos fiscais.</p>
+<p><b>Paragrafo Unico -</b> No tocante aos Programas de Trabalho no sistema de Planejamento e Gestao (SIPLAG), a Secretaria de Estado de Planejamento e Gestao (SEPLAG) emitira norma complementar com as disposicoes tecnicas de detalhamento orcamentario.</p>
+<p><b>Art. 5o</b> - Este Decreto entrara em vigor na data de sua publicacao, retroagindo seus efeitos a contar de 02 de janeiro de 2023.</p>
+<p>Rio de Janeiro, 10 de janeiro de 2023</p>
+<p><b>CLAUDIO CASTRO </b>Governador</p>  <p> C </p>
+<p><b>ANEXO UNICO</b></p>
+<p><b>CARGOS TRANSFERIDOS PARA A SECRETARIA DE ESTADO INTERGERACIONAL DE JUVENTUDE E ENVELHECIMENTO SAUDAVEL</b></p>
+<p><b>ID SIMBOLO NOME CARGO Orgao de Origem Lotacao Resultante</b></p>
+<p>43290639 SE SECRETARIO DO ESTADO SEENVS SEIJES</p>
+<p>50741586 CG CHEFE DE GABINETE SEENVS SEIJES</p>
+<p>50741586 (utlimo ocupante) DAS-8 ASSESSOR SEENVS SEIJES</p>
+<p>51301407 DAS-8 ASSESSOR SEENVS SEIJES</p>
+<p>51205394 DAS-8 ASSESSOR SEENVS SEIJES</p>
+<p>19172257 DAS-8 ASSESSOR SEENVS SEIJES</p>
+<p>43974732 DAS-7 ASSESSOR SEENVS SEIJES</p>
+<p>40190137 DAS-7 ASSESSOR SEENVS SEIJES</p>
+<p>51263459 DAS-6 ASSISTENTE SEENVS SEIJES</p>
+<p>5 11 6 1 4 7 8 DAS-6 ASSISTENTE SEENVS SEIJES</p>
+<p>51367351 (ultimo ocupante) DAS-6 ASSISTENTE SEENVS SEIJES</p>
+<p>51367262 DAI-6 ASSISTENTE II SEENVS SEIJES</p>
+<p>21392730 DAI-6 ASSISTENTE II SEENVS SEIJES</p>
+<p>50882929 DAI-6 ASSISTENTE II SEENVS SEIJES</p>
+<p>51223970 DAI-6 ASSISTENTE II SEENVS SEIJES</p>
+<p>51327333 DAI-6 ASSISTENTE II SEENVS SEIJES</p>
+<p>51295288 DAI-6 ASSISTENTE II SEENVS SEIJES</p>
+<p>43156347 DAI-6 ASSISTENTE II SEENVS SEIJES</p>
+<p>51332736 DAI-6 ASSISTENTE II SEENVS SEIJES</p>
+<p>44598149 DAI-6 ASSISTENTE II SEENVS SEIJES</p>
+<p>51231778 DAI-6 ASSISTENTE II SEENVS SEIJES</p>
+<p>51328828 DAI-6 ASSISTENTE II SEENVS SEIJES</p>
+<p>51219310 DAI-6 ASSISTENTE II SEENVS SEIJES</p>
+<p>43470416 DAI-6 ASSISTENTE II SEENVS SEIJES</p>
+<p>51235404 DAI-2 AJUDANTE II SEENVS SEIJES</p>
+<p>5132787-2 DAI-2 AJUDANTE II SEENVS SEIJES</p>
+<p>51329336 DAI-2 AJUDANTE II SEENVS SEIJES</p>
+<p>51221322 DAI-2 AJUDANTE II SEENVS SEIJES</p>
+<p>51327830 DAI-1 AJUDANTE I SEENVS SEIJES</p>
+<p>51224020 DAI-1 AJUDANTE I SEENVS SEIJES</p>
+<p>43624447 DAI-1 AJUDANTE I SEENVS SEIJES</p>
+<p>51219140 DAI-1 AJUDANTE I SEENVS SEIJES</p>
+<p>51232723 DAI-1 AJUDANTE I SEENVS SEIJES</p>
+<p>51323010 DAI-1 AJUDANTE I SEENVS SEIJES</p>
+<p>51292424 (ultimo ocupante) DAI-1 AJUDANTE I SEENVS SEIJES</p>
+<p>51303612 DAI-1 AJUDANTE I SEENVS SEIJES</p>
+<p>43215254 DAI-1 AJUDANTE I SEENVS SEIJES</p>
+<p>43160069 DAI-1 AJUDANTE I SEENVS SEIJES</p>
+<p>51257858 DAI-1 AJUDANTE I SEENVS SEIJES</p>
+<p>51257343 DAI-1 AJUDANTE I SEENVS SEIJES</p>
+<p>51257165 DAI-1 AJUDANTE I SEENVS SEIJES</p>
+<p>51257327 DAI-1 AJUDANTE I SEENVS SEIJES</p>
+<p>51260875 DAI-1 AJUDANTE I SEENVS SEIJES</p>
+<p>51290413 DAI-1 AJUDANTE I SEENVS SEIJES</p>
+<p>51260883 DAI-1 AJUDANTE I SEENVS SEIJES</p>
+<p>50938916 DAI-1 AJUDANTE I SEENVS SEIJES</p>
+<p>51297094 DAI-1 AJUDANTE I SEENVS SEIJES</p>
+<p>50232894 DAI-1 AJUDANTE I SEENVS SEIJES</p>
+<p>50864874 DAI-1 AJUDANTE I SEENVS SEIJES</p>
+<p>51298260 DAI-1 AJUDANTE I SEENVS SEIJES</p>
+<p>25156560 DAI-1 AJUDANTE I SEENVS SEIJES</p>
+<p>50873261 DAI-1 AJUDANTE I SEENVS SEIJES</p>
+<p>51332728 DAI-1 AJUDANTE I SEENVS SEIJES</p>
+<p>3 3 7 11 4 4 5 DAI-1 AJUDANTE I SEENVS SEIJES</p>
+<p>51294095 DAI-1 AJUDANTE I SEENVS SEIJES</p>
+<p>24178950 DAI-1 AJUDANTE I SEENVS SEIJES</p>
+<p>51303280 DAI-1 AJUDANTE I SEENVS SEIJES</p>
+<p>51323435 DAI-1 AJUDANTE I SEENVS SEIJES</p>
+<p>50883348 DAI-1 AJUDANTE I SEENVS SEIJES</p>
+<p>51365448 DAI-1 AJUDANTE I SEENVS SEIJES</p>
+<p>51303760 DAI-1 AJUDANTE I SEENVS SEIJES</p>
+<p>51303710 DAI-1 AJUDANTE I SEENVS SEIJES</p>
+<p>51321041 DAI-1 AJUDANTE I SEENVS SEIJES</p>
+<p>51304180 DAI-1 AJUDANTE I SEENVS SEIJES</p>
+<p>51332434 DAI-1 AJUDANTE I SEENVS SEIJES</p>
+<p>51332710 DAI-1 AJUDANTE I SEENVS SEIJES</p>
+<p>51327759 (ultimo ocupante) DAI-1 AJUDANTE I SEENVS SEIJES</p>
+<p>51328836 DAI-1 AJUDANTE I SEENVS SEIJES</p>
+<p>51326418 DAI-1 AJUDANTE I SEENVS SEIJES</p>
+<p>51326558 DAI-1 AJUDANTE I SEENVS SEIJES</p>
+<p>5 11 3 7 0 0 3 DAI-1 AJUDANTE I SEENVS SEIJES</p>
+<p>50899295 DAI-1 AJUDANTE I SEENVS SEIJES</p>
+<p>51266741 DAS-8 ASSESSOR-CHEFE SEACJ SEIJES</p>
+<p>51266458 DAI-6 ASSISTENTE II SEACJ SEIJES</p>
+<p>50942018 DAI-6 ASSISTENTE II SEACJ SEIJES</p>
+<p>51268752 DAI-6 ASSISTENTE II SEACJ SEIJES</p>
+<p>44010338 DAI-6 ASSISTENTE II SEACJ SEIJES</p>
+<p>43168744 DAI-1 AJUDANTE I SEACJ SEIJES</p>
+<p>51249723 DAI-1 AJUDANTE I SEACJ SEIJES</p>
+<p>51266717 DAI-1 AJUDANTE I SEACJ SEIJES</p>
+<p>4 4 0 4 11 0 1 DAI-1 AJUDANTE I SEACJ SEIJES</p>
+<p>51266750 DAI-1 AJUDANTE I SEACJ SEIJES</p>
+<p>51266512 DAI-1 AJUDANTE I SEACJ SEIJES</p>
+<p>51267144 DAI-1 AJUDANTE I SEACJ SEIJES</p>
+<p>51268400 DAI-1 AJUDANTE I SEACJ SEIJES</p>
+<p>51297558 (ultimo ocupante) DAI-1 AJUDANTE I SEACJ SEIJES</p>
+<p>51321360 DAI-1 AJUDANTE I SEACJ SEIJES</p>
+<p>51271257 DAI-1 AJUDANTE I SEACJ SEIJES</p>
+<p>50727745 DAI-1 AJUDANTE I SEACJ SEIJES</p>
+<p>50283588 DAI-1 AJUDANTE I SEACJ SEIJES</p>
+<p>44010222 DAI-1 AJUDANTE I SEACJ SEIJES</p>
+<p>51270617 DAI-1 AJUDANTE I SEACJ SEIJES</p>
+<p>50888374 DAI-1 AJUDANTE I SEACJ SEIJES</p>
+<p>51269821 DAI-1 AJUDANTE I SEACJ SEIJES</p>
+<p>51283867 DAI-1 AJUDANTE I SEACJ SEIJES</p>
+<p>51270749 DAI-1 AJUDANTE I SEACJ SEIJES</p>
+<p>50057677 DAI-1 AJUDANTE I SEACJ SEIJES</p>
+<p>51270650 DAI-1 AJUDANTE I SEACJ SEIJES</p>
+<p>51346001 DAI-1 AJUDANTE I SEACJ SEIJES</p>
+<p>51271362 DAI-1 AJUDANTE I SEACJ SEIJES</p>
+<p>50362194 DAI-1 AJUDANTE I SEACJ SEIJES</p>
+<p><b>CARGO TRANSFERIDO PARA A SECRETARIA DE ESTADO DE CASA CIVIL</b></p>
+<p><b>ID SIMBOLO NOME CARGO Orgao de Origem Lotacao Resultante</b></p>
+<p>44210205 SE SECRETARIO DE ESTADO SEACJ SECC</p>
+<p><b>Id: 2451190</b></p>  <p> C </p>
+<p><b>DECRETO No 48.314 DE 10 DE JANEIRO DE 2023</b></p>
+<p><b>TRANSFEREM, SEM AUMENTO DE DESPESA, OS CARGOS EM COMISSAO QUE MENCIONA, E DA OUTRAS PROVIDENCIAS.</b></p>
+<p><b>O GOVERNADOR DO ESTADO DO RIO DE JANEIRO,</b> no uso de suas atribuicoes constitucionais e legais, e tendo em vista o que consta do Processo no SEI-150001/000876/2023,</p>
+<p><b>CONSIDERANDO</b>:</p>
+<p>a necessidade de observar os principios que orientam a Administracao Publica esculpidos no artigo 37 da CRFB; e</p>
+<p>que compete privativamente ao Governador dispor sobre a organizacao e o funcionamento da administracao publica estadual;</p>
+<p><b>D E C R E TA :</b></p>
+<p><b>Art. 1o</b> - Ficam transferidos, sem aumento de despesa, para a Secretaria de Estado de Infraestrutura e Cidades (SEIC), os cargos comissionados (vagos e ocupados) mencionados no Anexo Unico a este decreto, de acordo com a origem indicada nas respectivas tabelas.</p>
+<p><b>Paragrafo Unico</b> - As transferencias mencionadas no caput serao efetuadas mediante as respectivas transferencias de Gratificacoes por Encargos Especiais (GEEs) dos servidores relacionados.</p>
+<p><b>Art. 2o</b> - O art. 3a do Decreto no 48.308 de 06/01/2023, passara a vigorar com a seguinte redacao:</p>
+<p>Art. 3o - Excetuam-se das normas de transferencia contidas nos artigos anteriores, todas as disposicoes afetas a Subsecretaria de Habitacao, nao havendo pelo presente ato normativo, quaisquer transferencias de contratos, cargos, bens e programas de trabalho orcamentarios da referida subsecretaria para a Secretaria de Estado de Infraestrutura e Cidades (SEIC).</p>
+<p><b>Art. 3o</b> - Para fins de transparencia e controle interno, fica consolidada no Anexo Unico ao presente Decreto, a identificacao funcional de todos os servidores, ora transferidos.</p>
+<p><b>Art. 4o</b> - Este Decreto entrara em vigor na data de sua publicacao, com efeitos a contar de 02 de janeiro de 2023.</p>
+<p>Rio de Janeiro, 10 de janeiro de 2023</p>
+<p><b>CLAUDIO CASTRO </b>Governador</p>
+<p><b>ANEXO UNICO</b></p>
+<p><b>CARGOS TRANSFERIDOS</b></p>
+<p><b>ID SIMBOLO NOME CARGO Orgao de Origem Lotacao Resultante</b></p>
+<p>19402562 DAI-1 AJUDANTE I <b>SEINFRA SEIC</b></p>
+<p>50135210 DAI-1 AJUDANTE I <b>SEINFRA SEIC</b></p>
+<p>20091842 DAI-1 AJUDANTE I <b>SEINFRA SEIC</b></p>
+<p>50319191 DAI-1 AJUDANTE I <b>SEINFRA SEIC</b></p>
+<p>1 9 8 5 5 11 7 DAI-1 AJUDANTE I <b>SEINFRA SEIC</b></p>
+<p>32322984 DAI-1 AJUDANTE I <b>SEINFRA SEIC</b></p>
+<p>51269988 DAI-1 AJUDANTE I <b>SEINFRA SEIC</b></p>
+<p>50364480 DAI-1 AJUDANTE I <b>SEINFRA SEIC</b></p>
+<p>51337789 DAI-1 AJUDANTE I <b>SEINFRA SEIC</b></p>
+<p>50368982 DAI-1 AJUDANTE I <b>SEINFRA SEIC</b></p>
+<p>50370146 DAI-1 AJUDANTE I <b>SEINFRA SEIC</b></p>
+<p>51255294 DAI-1 AJUDANTE I <b>SEINFRA SEIC</b></p>
+<p>50367889 DAI-1 AJUDANTE I <b>SEINFRA SEIC</b></p>
+<p>42763037 DAI-1 AJUDANTE I <b>SEINFRA SEIC</b></p>
+<p>51285665 DAI-1 AJUDANTE I <b>SEINFRA SEIC</b></p>
+<p>51276518 DAI-1 AJUDANTE I <b>SEINFRA SEIC</b></p>
+<p>51283735 DAI-1 AJUDANTE I <b>SEINFRA SEIC</b></p>
+<p>51283727 DAI-1 AJUDANTE I <b>SEINFRA SEIC</b></p>
+<p>51285622 DAI-1 AJUDANTE I <b>SEINFRA SEIC</b></p>
+<p>51349868 DAI-1 AJUDANTE I <b>SEINFRA SEIC</b></p>
+<p>50368222 DAI-1 AJUDANTE I <b>SEINFRA SEIC</b></p>
+<p>51208881 DAI-1 AJUDANTE I <b>SEINFRA SEIC</b></p>
+<p>50856103 DAI-1 AJUDANTE I <b>SEINFRA SEIC</b></p>
+<p>51324636 DAI-1 AJUDANTE I <b>SEINFRA SEIC</b></p>
+<p>51257629 DAI-1 AJUDANTE I <b>SEINFRA SEIC</b></p>
+<p>50997190 DAI-1 AJUDANTE I <b>SEINFRA SEIC</b></p>
+<p>5 111 6 2 1 9 DAI-1 AJUDANTE I <b>SEINFRA SEIC</b></p>
+<p>51291533 DAI-1 AJUDANTE I <b>SEINFRA SEIC</b></p>
+<p>51270552 DAI-1 AJUDANTE I <b>SEINFRA SEIC</b></p>
+<p>50932250 DAI-1 AJUDANTE I <b>SEINFRA SEIC</b></p>
+<p>51363291 DAI-1 AJUDANTE I <b>SEINFRA SEIC</b></p>
+<p>51272547 DAI-1 AJUDANTE I <b>SEINFRA SEIC</b></p>
+<p>51225417 DAI-1 AJUDANTE I <b>SEINFRA SEIC</b></p>
+<p>5 111 8 3 0 0 DAI-1 AJUDANTE I <b>SEINFRA SEIC</b></p>
+<p>51274795 DAI-1 AJUDANTE I <b>SEINFRA SEIC</b></p>
+<p>51324580 DAI-1 AJUDANTE I <b>SEINFRA SEIC</b></p>
+<p>5 1 2 3 11 4 0 DAI-1 AJUDANTE I <b>SEINFRA SEIC</b></p>
+<p>19196407 DAI-1 AJUDANTE I <b>SEINFRA SEIC</b></p>
+<p>51280221 DAI-1 AJUDANTE I <b>SEINFRA SEIC</b></p>
+<p>51334577 DAI-1 AJUDANTE I <b>SEINFRA SEIC</b></p>
+<p>51089050 DAI-1 AJUDANTE I <b>SEINFRA SEIC</b></p>
+<p>50345958 DAI-1 AJUDANTE I <b>SEINFRA SEIC</b></p>
+<p>51270048 DAI-1 AJUDANTE I <b>SEINFRA SEIC</b></p>
+<p>51283700 DAI-1 AJUDANTE I <b>SEINFRA SEIC</b></p>
+<p>51291541 DAI-1 AJUDANTE I <b>SEINFRA SEIC</b></p>
+<p>44579322 DAI-1 AJUDANTE I <b>SEINFRA SEIC</b></p>
+<p>51225450 DAI-1 AJUDANTE I <b>SEINFRA SEIC</b></p>
+<p>51216957 DAS-7 ASSESSOR <b>SEINFRA SEIC</b></p>
+<p>19439431 DAS-7 ASSESSOR <b>SEINFRA SEIC</b></p>
+<p>51239787 DAS-8 ASSESSOR <b>SEINFRA SEIC</b></p>
+<p>51232600 DAS-8 ASSESSOR <b>SEINFRA SEIC</b></p>
+<p>5630088 DAS-8 ASSESSOR <b>SEINFRA SEIC</b></p>
+<p>51236680 DAS-8 ASSESSOR <b>SEINFRA SEIC</b></p>
+<p>51259648 DAS-7 ASSESSOR <b>SEINFRA SEIC</b></p>
+<p>51300761 DAS-7 ASSESSOR <b>SEINFRA SEIC</b></p>
+<p>42505941 DAS-8 ASSESSOR <b>SEINFRA SEIC</b></p>
+<p>5 11 7 2 9 8 4 DAS-7 ASSESSOR <b>SEINFRA SEIC</b></p>
+<p>51216930 DAS-8 ASSESSOR <b>SEINFRA SEIC</b></p>
+<p>51240548 DAS-6 ASSESSOR <b>SEINFRA SEIC</b></p>
+<p>50978640 DAS-8 ASSESSOR <b>SEINFRA SEIC</b></p>
+<p>51216710 DAS-8 ASSESSOR <b>SEINFRA SEIC</b></p>
+<p>51298473 DAS-8 ASSESSOR CHEFE <b>SEINFRA SEIC</b></p>
+<p>50998374 DAS-8 ASSESSOR CHEFE <b>SEINFRA SEIC</b></p>
+<p>6220371 DG/CG ASSESSOR ESPECIAL <b>SEINFRA SEIC</b></p>
+<p>51212315 DAS-6 ASSISTENTE <b>SEINFRA SEIC</b></p>
+<p>5 11 7 2 4 1 0 DAI-6 ASSISTENTE <b>SEINFRA SEIC</b></p>
+<p>51037637 DAS-6 ASSISTENTE <b>SEINFRA SEIC</b></p>
+<p>5 11 7 2 2 7 5 DAS-6 ASSISTENTE <b>SEINFRA SEIC</b></p>
+<p>51243059 DAS-6 ASSISTENTE <b>SEINFRA SEIC</b></p>
+<p>5 11 7 4 9 5 2 DAS-6 ASSISTENTE <b>SEINFRA SEIC</b></p>
+<p>42709482 DAI-6 ASSISTENTE II <b>SEINFRA SEIC</b></p>
+<p>5 11 7 4 9 3 6 DAI-6 ASSISTENTE II <b>SEINFRA SEIC</b></p>
+<p>44015852 DAI-6 ASSISTENTE II <b>SEINFRA SEIC</b></p>
+<p>51037653 DAI-6 ASSISTENTE II <b>SEINFRA SEIC</b></p>
+<p>1 9 11 8 8 5 6 DAI-6 ASSISTENTE II <b>SEINFRA SEIC</b></p>
+<p>51216175 DAI-6 ASSISTENTE II <b>SEINFRA SEIC</b></p>
+<p>43333494 DAI-6 ASSISTENTE II <b>SEINFRA SEIC</b></p>
+<p>5 11 2 2 5 6 1 DAI-6 ASSISTENTE II <b>SEINFRA SEIC</b></p>
+<p>5 11 7 2 9 9 2 DAI-6 ASSISTENTE II <b>SEINFRA SEIC</b></p>
+<p>51213206 DAI-6 ASSISTENTE II <b>SEINFRA SEIC</b></p>
+<p>51313561 DAI-6 ASSISTENTE II <b>SEINFRA SEIC</b></p>
+<p>51235943 DAS-6 ASSISTENTE II <b>SEINFRA SEIC</b></p>
+<p>51214024 DAI-6 ASSISTENTE II <b>SEINFRA SEIC</b></p>
+<p>5 1 2 1 4 9 11 DAI-6 ASSISTENTE II <b>SEINFRA SEIC</b></p>
+<p>51208229 DAI-6 ASSISTENTE II <b>SEINFRA SEIC</b></p>
+<p>51298210 DAI-6 ASSISTENTE II <b>SEINFRA SEIC</b></p>
+<p>28546830 DAI-6 ASSISTENTE II <b>SEINFRA SEIC</b></p>
+<p>51242915 DAI-6 ASSISTENTE II <b>SEINFRA SEIC</b></p>  <p> C </p>
+<p>51096412 DAS-6 ASSISTENTE II <b>SEINFRA SEIC</b></p>
+<p>51216949 DAS-6 COORDENADOR <b>SEINFRA SEIC</b></p>
+<p>4 4 2 5 9 6 11 DAS-8 COORDENADOR <b>SEINFRA SEIC</b></p>
+<p>50080938 DAS-7 COORDENADOR <b>SEINFRA SEIC</b></p>
+<p>51216124 DAS-8 COORDENADOR <b>SEINFRA SEIC</b></p>
+<p>44167563 DAS-7 COORDENADOR <b>SEINFRA SEIC</b></p>
+<p>5 1 0 9 5 11 4 DAS-8 COORDENADOR <b>SEINFRA SEIC</b></p>
+<p>51206080 DG/CG COORDENADOR GERAL <b>SEINFRA SEIC</b></p>
+<p>43382800 DAS-6 DIRETOR DE DIVISAO <b>SEINFRA SEIC</b></p>
+<p>43154620 ( ultimo ocupante ) DAS-6 DIRETOR DE DIVISAO <b>SEINFRA SEIC</b></p>
+<p>5 11 8 1 5 0 9 DAI-4 SECRETARIO I <b>SEINFRA SEIC</b></p>
+<p>43589758 SS SUBSECRETARIO <b>SEINFRA SEIC</b></p>
+<p>44200242 SS SUBSECRETARIO <b>SEINFRA SEIC</b></p>
+<p>51216906 DG/CG SUPERINTENDENTE <b>SEINFRA SEIC</b></p>
+<p>20122560 DG/CG SUPERINTENDENTE <b>SEINFRA SEIC</b></p>
+<p>50978721 DG/CG SUPERINTENDENTE <b>SEINFRA SEIC</b></p>
+<p>44242948 DAI-2 AJUDANTE II <b>SEINFRA SEIC</b></p>
+<p>51215012 DAI-2 AJUDANTE II <b>SEINFRA SEIC</b></p>
+<p>50729918 DAI-2 AJUDANTE II <b>SEINFRA SEIC</b></p>
+<p>19943512 DAI-1 AJUDANTE I <b>SEINFRA SEIC</b></p>
+<p>44323212 DAI-1 AJUDANTE I <b>SEINFRA SEIC</b></p>
+<p>51220342 DAI-1 AJUDANTE I <b>SEINFRA SEIC</b></p>
+<p>51245418 DAI-1 AJUDANTE I <b>SEINFRA SEIC</b></p>
+<p>51225980 DAI-1 AJUDANTE I <b>SEINFRA SEIC</b></p>
+<p>43190618 DAI-1 AJUDANTE I <b>SEINFRA SEIC</b></p>
+<p>51245710 DAI-1 AJUDANTE I <b>SEINFRA SEIC</b></p>
+<p>51220121 DAI-1 AJUDANTE I <b>SEINFRA SEIC</b></p>
+<p>51220415 DAI-1 AJUDANTE I <b>SEINFRA SEIC</b></p>
+<p>51220679 DAI-1 AJUDANTE I <b>SEINFRA SEIC</b></p>
+<p>50990667 DAI-1 AJUDANTE I <b>SEINFRA SEIC</b></p>
+<p>51236699 DAI-1 AJUDANTE I <b>SEINFRA SEIC</b></p>
+<p>51209454 DAI-1 AJUDANTE I <b>SEINFRA SEIC</b></p>
+<p>43482007 DAI-1 AJUDANTE I <b>SEINFRA SEIC</b></p>
+<p>5 11 8 6 2 1 7 DAI-1 AJUDANTE I <b>SEINFRA SEIC</b></p>
+<p>51328097 DAI-1 AJUDANTE I <b>SEINFRA SEIC</b></p>
+<p>51220369 DAI-1 AJUDANTE I <b>SEINFRA SEIC</b></p>
+<p>51220776 DAI-1 AJUDANTE I <b>SEINFRA SEIC</b></p>
+<p>51220938 DAI-1 AJUDANTE I <b>SEINFRA SEIC</b></p>
+<p>51221233 DAI-1 AJUDANTE I <b>SEINFRA SEIC</b></p>
+<p>51333325 DAI-1 AJUDANTE I <b>SEINFRA SEIC</b></p>
+<p>51220695 DAI-1 AJUDANTE I <b>SEINFRA SEIC</b></p>
+<p>51213044 DAI-1 AJUDANTE I <b>SEINFRA SEIC</b></p>
+<p>51299585 DAI-1 AJUDANTE I <b>SEINFRA SEIC</b></p>
+<p>51333864 DAI-1 AJUDANTE I <b>SEINFRA SEIC</b></p>
+<p>50158295 DAI-1 AJUDANTE I <b>SEINFRA SEIC</b></p>
+<p>51220083 DAI-1 AJUDANTE I <b>SEINFRA SEIC</b></p>
+<p>51213699 DAI-1 AJUDANTE I <b>SEINFRA SEIC</b></p>
+<p>51220130 DAI-1 AJUDANTE I <b>SEINFRA SEIC</b></p>
+<p>51245400 DAI-1 AJUDANTE I <b>SEINFRA SEIC</b></p>
+<p>51336448 DAI-1 AJUDANTE I <b>SEINFRA SEIC</b></p>
+<p>51082403 DAI-1 AJUDANTE I <b>SEINFRA SEIC</b></p>
+<p>51331390 DAI-1 AJUDANTE I <b>SEINFRA SEIC</b></p>
+<p>51220636 DAI-1 AJUDANTE I <b>SEINFRA SEIC</b></p>
+<p>51220784 DAI-1 AJUDANTE I <b>SEINFRA SEIC</b></p>
+<p>51220164 DAI-1 AJUDANTE I <b>SEINFRA SEIC</b></p>
+<p>50158759 DAI-1 AJUDANTE I <b>SEINFRA SEIC</b></p>
+<p>50885596 DAI-1 AJUDANTE I <b>SEINFRA SEIC</b></p>
+<p>50886975 DAI-1 AJUDANTE I <b>SEINFRA SEIC</b></p>
+<p>51244357 DAI-1 AJUDANTE I <b>SEINFRA SEIC</b></p>
+<p>51222922 DAI-1 AJUDANTE I <b>SEINFRA SEIC</b></p>
+<p>51290286 DAI-1 AJUDANTE I <b>SEINFRA SEIC</b></p>
+<p>51213010 DAI-1 AJUDANTE I <b>SEINFRA SEIC</b></p>
+<p>51215250 DAI-1 AJUDANTE I <b>SEINFRA SEIC</b></p>
+<p>51262029 DAI-1 AJUDANTE I <b>SEINFRA SEIC</b></p>
+<p>5 11 0 8 11 9 DAI-1 AJUDANTE I <b>SEINFRA SEIC</b></p>
+<p>5 11 8 2 0 6 8 DAI-1 AJUDANTE I <b>SEINFRA SEIC</b></p>
+<p>51220512 DAI-1 AJUDANTE I <b>SEINFRA SEIC</b></p>
+<p>50971751 DAI-1 AJUDANTE I <b>SEINFRA SEIC</b></p>
+<p>51226189 DAI-1 AJUDANTE I <b>SEINFRA SEIC</b></p>
+<p>51219867 DAI-1 AJUDANTE I <b>SEINFRA SEIC</b></p>
+<p>51220091 DAI-1 AJUDANTE I <b>SEINFRA SEIC</b></p>
+<p>5 11 7 6 5 9 9 DAI-1 AJUDANTE I <b>SEINFRA SEIC</b></p>
+<p>51220393 DAI-1 AJUDANTE I <b>SEINFRA SEIC</b></p>
+<p>51244241 DAI-1 AJUDANTE I <b>SEINFRA SEIC</b></p>
+<p>42520878 DAI-1 AJUDANTE I <b>SEINFRA SEIC</b></p>
+<p>51220407 DAI-1 AJUDANTE I <b>SEINFRA SEIC</b></p>
+<p>51220385 DAI-1 AJUDANTE I <b>SEINFRA SEIC</b></p>
+<p>51326124 DAI-1 AJUDANTE I <b>SEINFRA SEIC</b></p>
+<p>50990799 DAI-1 AJUDANTE I <b>SEINFRA SEIC</b></p>
+<p>51220474 DAI-1 AJUDANTE I <b>SEINFRA SEIC</b></p>
+<p>51220377 DAI-1 AJUDANTE I <b>SEINFRA SEIC</b></p>
+<p>5 11 9 3 3 6 1 DAI-1 AJUDANTE I <b>SEINFRA SEIC</b></p>
+<p>51220318 DAI-1 AJUDANTE I <b>SEINFRA SEIC</b></p>
+<p>50882767 DAS-7 ASSESSOR <b>SEINFRA SEIC</b></p>
+<p>44369042 DAS-7 ASSESSOR <b>SEINFRA SEIC</b></p>
+<p>51214733 DAS-7 ASSESSOR <b>SEINFRA SEIC</b></p>
+<p>51243679 DAS-7 ASSESSOR <b>SEINFRA SEIC</b></p>
+<p>50096540 DAS-8 ASSESSOR <b>SEINFRA SEIC</b></p>
+<p>5 11 7 5 1 3 4 DAS-7 ASSESSOR <b>SEINFRA SEIC</b></p>
+<p>42712890 DAS-8 ASSESSOR <b>SEINFRA SEIC</b></p>
+<p>51367254 DAS-8 ASSESSOR <b>SEINFRA SEIC</b></p>
+<p>51200791 DAS-8 ASSESSOR <b>SEINFRA SEIC</b></p>
+<p>51213184 DAS-8 ASSESSOR <b>SEINFRA SEIC</b></p>
+<p>51270528 DAS-8 ASSESSOR <b>SEINFRA SEIC</b></p>
+<p>50936263 DAS-8 ASSESSOR <b>SEINFRA SEIC</b></p>
+<p>42732670 DAS-8 ASSESSOR <b>SEINFRA SEIC</b></p>
+<p>51323958 DAS-6 ASSESSOR <b>SEINFRA SEIC</b></p>
+<p>51243024 DAS-7 ASSESSOR <b>SEINFRA SEIC</b></p>
+<p>5 11 8 0 7 3 1 DAS-8 ASSESSOR <b>SEINFRA SEIC</b></p>
+<p>43787533 DAS-8 ASSESSOR <b>SEINFRA SEIC</b></p>
+<p>51084279 DAS-8 ASSESSOR <b>SEINFRA SEIC</b></p>
+<p>50158309 DAS-8 ASSESSOR <b>SEINFRA SEIC</b></p>
+<p>50158490 DAS-8 ASSESSOR <b>SEINFRA SEIC</b></p>
+<p>50153820 DAS-7 ASSESSOR <b>SEINFRA SEIC</b></p>
+<p>51354918 DAS-8 ASSESSOR <b>SEINFRA SEIC</b></p>
+<p>5 11 2 5 7 5 7 DAS-8 ASSESSOR <b>SEINFRA SEIC</b></p>
+<p>51297965 DAS-8 ASSESSOR <b>SEINFRA SEIC</b></p>
+<p>51245345 DAS-7 ASSESSOR <b>SEINFRA SEIC</b></p>
+<p>5 11 3 0 5 3 0 DAS-8 ASSESSOR <b>SEINFRA SEIC</b></p>
+<p>51297833 DAS-8 ASSESSOR <b>SEINFRA SEIC</b></p>
+<p>51212188 DAI-6 ASSESSOR <b>SEINFRA SEIC</b></p>
+<p>51231603 DAS-7 ASSESSOR <b>SEINFRA SEIC</b></p>
+<p>51326353 DAS-8 ASSESSOR <b>SEINFRA SEIC</b></p>
+<p>5 11 7 0 8 1 7 DAS-7 ASSESSOR <b>SEINFRA SEIC</b></p>
+<p>51363330 DAS-8 ASSESSOR <b>SEINFRA SEIC</b></p>
+<p>5 11 7 1 6 8 6 DAS-8 ASSESSOR <b>SEINFRA SEIC</b></p>
+<p>50172514 DAS-8 ASSESSOR <b>SEINFRA SEIC</b></p>
+<p>51296454 DAS-7 ASSESSOR <b>SEINFRA SEIC</b></p>
+<p>5 111 7 9 2 4 DAS-7 ASSESSOR <b>SEINFRA SEIC</b></p>
+<p>51321742 ( ultimo ocupante ) DAS-8 ASSESSOR <b>SEINFRA SEIC</b></p>
+<p>51074940 DAS-8 ASSESSOR <b>SEINFRA SEIC</b></p>  <p> C </p>
+<p>51209918 DAS-7 ASSESSOR <b>SEINFRA SEIC</b></p>
+<p>51209705 DAS-8 ASSESSOR <b>SEINFRA SEIC</b></p>
+<p>51328208 DAS-6 ASSESSOR <b>SEINFRA SEIC</b></p>
+<p>42666155 DG/CG ASSESSOR CHEFE <b>SEINFRA SEIC</b></p>
+<p>50255088 DAS-8 ASSESSOR CHEFE <b>SEINFRA SEIC</b></p>
+<p>51213079 DAS-8 ASSESSOR CHEFE <b>SEINFRA SEIC</b></p>
+<p>50999885 DAS-8 ASSESSOR CHEFE <b>SEINFRA SEIC</b></p>
+<p>50184687 DAS-8 ASSESSOR CHEFE <b>SEINFRA SEIC</b></p>
+<p>5 0 11 2 8 6 4 DAS-8 ASSESSOR CHEFE <b>SEINFRA SEIC</b></p>
+<p>5 111 5 6 3 8 DG/CG ASSESSOR ESPECIAL <b>SEINFRA SEIC</b></p>
+<p>5 1 2 11 6 1 0 DG/CG ASSESSOR ESPECIAL <b>SEINFRA SEIC</b></p>
+<p>51212099 DAS-6 ASSISTENTE <b>SEINFRA SEIC</b></p>
+<p>43932819 DAS-6 ASSISTENTE <b>SEINFRA SEIC</b></p>
+<p>51212412 DAS-6 ASSISTENTE <b>SEINFRA SEIC</b></p>
+<p>27127710 DAS-6 ASSISTENTE <b>SEINFRA SEIC</b></p>
+<p>51243768 DAS-6 ASSISTENTE <b>SEINFRA SEIC</b></p>
+<p>43534350 DAS-6 ASSISTENTE <b>SEINFRA SEIC</b></p>
+<p>51228270 DAS-6 ASSISTENTE <b>SEINFRA SEIC</b></p>
+<p>5 11 2 2 6 0 0 DAS-6 ASSISTENTE <b>SEINFRA SEIC</b></p>
+<p>51066360 DAS-6 ASSISTENTE <b>SEINFRA SEIC</b></p>
+<p>51210886 DAS-6 ASSISTENTE <b>SEINFRA SEIC</b></p>
+<p>51289156 DAS-6 ASSISTENTE <b>SEINFRA SEIC</b></p>
+<p>5 1 2 8 5 11 8 DAI-6 ASSISTENTE <b>SEINFRA SEIC</b></p>
+<p>51239175 DAS-6 ASSISTENTE <b>SEINFRA SEIC</b></p>
+<p>51303540 DAS-6 ASSISTENTE <b>SEINFRA SEIC</b></p>
+<p>5629098 DAS-6 ASSISTENTE <b>SEINFRA SEIC</b></p>
+<p>5 11 7 3 8 0 8 DAS-6 ASSISTENTE <b>SEINFRA SEIC</b></p>
+<p>5 0 2 4 4 11 6 DAS-6 ASSISTENTE <b>SEINFRA SEIC</b></p>
+<p>42486025 ( ultimo ocupante ) DAI-6 ASSISTENTE II <b>SEINFRA SEIC</b></p>
+<p>51244080 DAI-6 ASSISTENTE II <b>SEINFRA SEIC</b></p>
+<p>5 11 7 4 9 7 9 DAI-6 ASSISTENTE II <b>SEINFRA SEIC</b></p>
+<p>4 2 5 11 9 4 1 DAI-6 ASSISTENTE II <b>SEINFRA SEIC</b></p>
+<p>43877648 DAI-6 ASSISTENTE II <b>SEINFRA SEIC</b></p>
+<p>51226634 DAI-6 ASSISTENTE II <b>SEINFRA SEIC</b></p>
+<p>5 11 7 3 0 3 4 DAI-6 ASSISTENTE II <b>SEINFRA SEIC</b></p>
+<p>51201445 DAI-6 ASSISTENTE II <b>SEINFRA SEIC</b></p>
+<p>5717132 DAI-6 ASSISTENTE II <b>SEINFRA SEIC</b></p>
+<p>51226618 DAS-8 COORDENADOR <b>SEINFRA SEIC</b></p>
+<p>20124244 DAS-8 COORDENADOR <b>SEINFRA SEIC</b></p>
+<p>5 11 7 3 0 1 8 DAS-6 COORDENADOR <b>SEINFRA SEIC</b></p>
+<p>51283344 DAS-8 COORDENADOR <b>SEINFRA SEIC</b></p>
+<p>51201380 ( ultimo ocupante ) DAS-8 COORDENADOR <b>SEINFRA SEIC</b></p>
+<p>50928279 DAS-8 COORDENADOR <b>SEINFRA SEIC</b></p>
+<p>43436900 DAS-7 COORDENADOR <b>SEINFRA SEIC</b></p>
+<p>51207990 DAS-8 COORDENADOR <b>SEINFRA SEIC</b></p>
+<p>50879472 DAS-6 COORDENADOR <b>SEINFRA SEIC</b></p>
+<p>51214318 DAS-8 COORDENADOR <b>SEINFRA SEIC</b></p>
+<p>5 11 7 4 9 0 1 DAS-8 COORDENADOR <b>SEINFRA SEIC</b></p>
+<p>51204924 DAS-6 COORDENADOR <b>SEINFRA SEIC</b></p>
+<p>51075016 DAS-7 COORDENADOR <b>SEINFRA SEIC</b></p>
+<p>51243873 DAS-8 COORDENADOR <b>SEINFRA SEIC</b></p>
+<p>43190901 DAS-8 COORDENADOR <b>SEINFRA SEIC</b></p>
+<p>51216213 DAS-6 COORDENADOR <b>SEINFRA SEIC</b></p>
+<p>51326310 DAS-8 COORDENADOR <b>SEINFRA SEIC</b></p>
+<p>5 11 8 5 1 3 0 DAS-7 COORDENADOR <b>SEINFRA SEIC</b></p>
+<p>51212978 DAS-8 COORDENADOR <b>SEINFRA SEIC</b></p>
+<p>51212170 DAS-6 COORDENADOR <b>SEINFRA SEIC</b></p>
+<p>5 1 2 11 9 2 0 DAS-8 COORDENADOR <b>SEINFRA SEIC</b></p>
+<p>51207338 DAS-8 COORDENADOR <b>SEINFRA SEIC</b></p>
+<p>50931563 DAS-8 COORDENADOR <b>SEINFRA SEIC</b></p>
+<p>5 11 5 8 7 0 1 DAS-7 COORDENADOR <b>SEINFRA SEIC</b></p>
+<p>5 11 7 2 9 4 1 DAS-8 COORDENADOR <b>SEINFRA SEIC</b></p>
+<p>6174388 DAS-8 COORDENADOR <b>SEINFRA SEIC</b></p>
+<p>5629527 DAS-8 COORDENADOR <b>SEINFRA SEIC</b></p>
+<p>42123364 DAS-7 COORDENADOR <b>SEINFRA SEIC</b></p>
+<p>42737044 DAS-6 COORDENADOR <b>SEINFRA SEIC</b></p>
+<p>51223295 DAS-7 DIRETOR DE DEPARTAMENTO <b>SEINFRA SEIC</b></p>
+<p>2 0 2 11 7 6 7 DAS-7 DIRETOR DE DIVISAO <b>SEINFRA SEIC</b></p>
+<p>5 11 7 4 8 4 7 DAS-6 DIRETOR DE DIVISAO <b>SEINFRA SEIC</b></p>
+<p>50238973 DAI-4 SECRETARIO I <b>SEINFRA SEIC</b></p>
+<p>5 11 6 8 9 9 5 DAI-5 SECRETARIO II <b>SEINFRA SEIC</b></p>
+<p>5 11 7 5 11 8 DAI-5 SECRETARIO II <b>SEINFRA SEIC</b></p>
+<p>51213419 SS SUBSECRETARIO <b>SEINFRA SEIC</b></p>
+<p>4 4 2 0 11 7 6 SS SUBSECRETARIO <b>SEINFRA SEIC</b></p>
+<p>5 11 7 4 3 6 7 SS SUBSECRETARIO <b>SEINFRA SEIC</b></p>
+<p>42122341 SS SUBSECRETARIO <b>SEINFRA SEIC</b></p>
+<p>51319128 DG/CG SUPERINTENDENTE <b>SEINFRA SEIC</b></p>
+<p>50981706 DG/CG SUPERINTENDENTE <b>SEINFRA SEIC</b></p>
+<p>51348659 DG/CG SUPERINTENDENTE <b>SEINFRA SEIC</b></p>
+<p>50235214 DG/CG SUPERINTENDENTE <b>SEINFRA SEIC</b></p>
+<p>50212370 DAI-2 AJUDANTE II <b>SEINFRA SEIC</b></p>
+<p>50987313 DAI-2 AJUDANTE II <b>SEINFRA SEIC</b></p>
+<p>5 11 7 4 7 3 1 DAI-2 AJUDANTE II <b>SEINFRA SEIC</b></p>
+<p>5 11 7 4 7 9 0 DAI-2 AJUDANTE II <b>SEINFRA SEIC</b></p>
+<p>51328232 DAI-2 AJUDANTE II <b>SEINFRA SEIC</b></p>
+<p>5 1 2 2 3 5 11 DAI-2 AJUDANTE II <b>SEINFRA SEIC</b></p>
+<p>5 11 7 2 9 2 5 DAI-2 AJUDANTE II <b>SEINFRA SEIC</b></p>
+<p>51244543 DAI-2 AJUDANTE II <b>SEINFRA SEIC</b></p>
+<p>42142040 DAI-2 AJUDANTE II <b>SEINFRA SEIC</b></p>
+<p>51296276 DAI-2 AJUDANTE II <b>SEINFRA SEIC</b></p>
+<p>51259869 DAI-2 AJUDANTE II <b>SEINFRA SEIC</b></p>
+<p>51245841 DAI-2 AJUDANTE II <b>SEINFRA SEIC</b></p>
+<p>42722934 DAI-2 AJUDANTE II <b>SEINFRA SEIC</b></p>
+<p>51213737 DAI-2 AJUDANTE II <b>SEINFRA SEIC</b></p>
+<p>5 11 7 0 6 3 9 DAI-2 AJUDANTE II <b>SEINFRA SEIC</b></p>
+<p>4 4 6 0 11 6 6 DAI-2 AJUDANTE II <b>SEINFRA SEIC</b></p>
+<p>51239205 DAI-2 AJUDANTE II <b>SEINFRA SEIC</b></p>
+<p>51209853 DAI-2 AJUDANTE II <b>SEINFRA SEIC</b></p>
+<p>51212218 DAI-2 AJUDANTE II <b>SEINFRA SEIC</b></p>
+<p>23308400 ( ultimo ocupante ) DG/CG CHEFE DE GABINETE <b>SEINFRA SEIC</b></p>
+<p><b>Id: 2451191</b></p>
+<p><b>DECRETO No 48.315 DE 10 DE JANEIRO DE 2023</b></p>
+<p><b>DISPOE, SEM AUMENTO DE DESPESA, SOBRE A ESTRUTURA ORGANIZACIONAL DA VICEGOVERNADORIA DO ESTADO, E DA OUTRAS PROVIDENCIAS.</b></p>
+<p><b>O GOVERNADOR DO ESTADO DO RIO DE JANEIRO</b>, em exercicio, no uso de suas atribuicoes constitucionais e legais, e tendo em vista o que consta do Processo no SEI-150001/000878/2023,</p>
+<p><b>CONSIDERANDO:</b></p>
+<p>a necessidade de observar os principios que orientam a Administracao Publica esculpidos no artigo 37 da Constituicao Federal;</p>
+<p>que a presente estrutura organizacional nao acarretara em aumento de despesa;</p>
+<p>que compete, privativamente, ao Governador dispor sobre a organizacao e o funcionamento da administracao estadual,</p>
+<p><b>D E C R E TA :</b></p>
+<p><b>Art. 1o</b> - Ficam transferidos para a estrutura basica da Vice Governadoria do Estado (VG), sem aumento de despesa, os cargos em comissao, vagos e/ou ocupados, conforme Anexo I ao presente Decreto.</p>
+<p><b>Paragrafo unico -</b> As transferencias mencionadas no caput serao efetuadas mediante as respectivas transferencias de Gratificacoes por Encargos Especiais (GEEs) dos servidores relacionados.</p>
+<p><b>Art. 2o</b> - Ficam exonerados, com validade a contar de 01 de janeiro de 2023, os servidores relacionados no Anexo I ao presente Decreto.</p>
+<p><b>Art. 3o -</b> Alem dos demais cargos em comissao que lhe forem alocados, a Vice-Governadoria contara, em sua estrutura, com um cargo em comissao de Subsecretario Adjunto, simbolo SA, cujo ocupante respondera pela Subsecretaria de Acao Comunitaria na ausencia, vacancia, impedimentos ou afastamentos legais do titular do orgao, e exercera as atividades que lhe forem delegadas pelo referido titular.</p>
+<p><b>Art. 4o -</b> Ficam transformados, sem aumento de despesa, para atender a estrutura organizacional da Vice-Governadoria, os cargos em comissao, vagos, relacionados no Anexo II ao presente Decreto e na forma ali mencionada.</p>
+<p><b>Art. 5o</b> - Este Decreto entrara em vigor na data de sua publicacao, retroagindo seus efeitos a contar de 02 de janeiro de 2023.</p>
+<p>Rio de Janeiro, 10 de janeiro de 2023</p>
+<p><b>CLAUDIO CASTRO </b>Governador</p>
+<p><b>ANEXO I</b></p>
+<p><b>CARGOS TRANSFERIDOS PARA A VICE-GOVERNADORIA</b></p>
+<p><b>ID SIMBOLO NOME FUNCAO Orgao de Origem</b></p>
+<p>51277506 DAI-1 AJUDANTE I SEACJ</p>
+<p>51271648 DAI-1 AJUDANTE I SEACJ</p>  <p> C </p>
+<p>50288890 DAI-1 AJUDANTE I SEACJ</p>
+<p>51277158 DAI-1 AJUDANTE I SEACJ</p>
+<p>50078585 DAI-1 AJUDANTE I SEACJ</p>
+<p>29529731 DAI-1 AJUDANTE I SEACJ</p>
+<p>51367360 DAI-1 AJUDANTE I SEACJ</p>
+<p>51296543 DAI-1 AJUDANTE I SEACJ</p>
+<p>51293021 DAI-1 AJUDANTE I SEACJ</p>
+<p>51296748 DAI-1 AJUDANTE I SEACJ</p>
+<p>29829666 DAI-1 AJUDANTE I SEACJ</p>
+<p>51296705 DAI-1 AJUDANTE I SEACJ</p>
+<p>51296764 DAI-1 AJUDANTE I SEACJ</p>
+<p>51298090 DAI-1 AJUDANTE I SEACJ</p>
+<p>51296756 DAI-1 AJUDANTE I SEACJ</p>
+<p>51303000 DAI-1 AJUDANTE I SEACJ</p>
+<p>51367246 DAI-1 AJUDANTE I SEACJ</p>
+<p>51367203 DAI-1 AJUDANTE I SEACJ</p>
+<p>51367270 DAI-1 AJUDANTE I SEACJ</p>
+<p>51367220 DAI-1 AJUDANTE I SEACJ</p>
+<p>51327350 DAI-1 AJUDANTE I SEACJ</p>
+<p>51328313 DAI-1 AJUDANTE I SEACJ</p>
+<p>51330504 DAI-1 AJUDANTE I SEACJ</p>
+<p>51327961 DAI-1 AJUDANTE I SEACJ</p>
+<p>50721658 DAI-1 AJUDANTE I SEACJ</p>
+<p>51327562 DAI-1 AJUDANTE I SEACJ</p>
+<p>51328100 DAI-1 AJUDANTE I SEACJ</p>
+<p>51330474 DAI-1 AJUDANTE I SEACJ</p>
+<p>41976088 DAI-1 AJUDANTE I SEACJ</p>
+<p>44266790 DAI-1 AJUDANTE I SEACJ</p>
+<p>51296322 (ultimo ocupante) DAS-6 ASSISTENTE SEDCON</p>
+<p>51295563 (ultimo ocupante) DAI-1 AJUDANTE I SEDCON</p>
+<p>51292939 (ultimo ocupante) DAI-1 AJUDANTE I SEDCON</p>
+<p>51292386 (ultimo ocupante) DAI-1 AJUDANTE I SEDCON</p>
+<p>51069954 (ultimo ocupante) DAI-1 AJUDANTE I SEDCON</p>
+<p>50800507 (ultimo ocupante) DAI-1 AJUDANTE I SEDCON</p>
+<p>50800418 (ultimo ocupante) DAI-1 AJUDANTE I SEDCON</p>
+<p>51070723 (ultimo ocupante) DAI-1 AJUDANTE I SEDCON</p>
+<p>51313421 (ultimo ocupante) DAI-1 AJUDANTE I SEDCON</p>
+<p>51212668 (ultimo ocupante) DAI-1 AJUDANTE I SEDCON</p>
+<p>50244655 (ultimo ocupante) DAI-1 AJUDANTE I SEDCON</p>
+<p>51289385 (ultimo ocupante) DAI-1 AJUDANTE I SEDCON</p>
+<p>51288532 (ultimo ocupante) DAI-1 AJUDANTE I SEDCON</p>
+<p>51288028 (ultimo ocupante) DAI-1 AJUDANTE I SEDCON</p>
+<p>51288486 (ultimo ocupante) DAI-1 AJUDANTE I SEDCON</p>
+<p>51289628 (ultimo ocupante) DAI-1 AJUDANTE I SEDCON</p>
+<p>51278251 (ultimo ocupante) DAI-1 AJUDANTE I SEDCON</p>
+<p>51277964 (ultimo ocupante) DAI-1 AJUDANTE I SEDCON</p>
+<p>51313430 (ultimo ocupante) DAI-1 AJUDANTE I SEDCON</p>
+<p>51304716 (ultimo ocupante) DAI-1 AJUDANTE I SEDCON</p>
+<p>51214393 (ultimo ocupante) DAI-1 AJUDANTE I SEDCON</p>
+<p>51212609 DAS-6 ASSISTENTE SEDCON</p>
+<p>29406749 DAS-6 ASSISTENTE SEDCON</p>
+<p>51295148 DAS-6 ASSISTENTE SEDCON</p>
+<p>50800329 DAS-6 ASSISTENTE SEDCON</p>
+<p>51298708 DAS-6 ASSISTENTE SEDCON</p>
+<p>39320979 DAS-6 ASSISTENTE SEDCON</p>
+<p>51267020 DAI-1 AJUDANTE I SEDCON</p>
+<p>51267250 DAI-1 AJUDANTE I SEDCON</p>
+<p>51214768 DAI-1 AJUDANTE I SEDCON</p>
+<p>51209926 DAI-1 AJUDANTE I SEDCON</p>
+<p>5 11 5 4 3 0 7 DAI-1 AJUDANTE I SEDCON</p>
+<p>51212374 DAI-1 AJUDANTE I SEDCON</p>
+<p>5 1 2 11 9 6 3 DAI-1 AJUDANTE I SEDCON</p>
+<p>5 11 5 4 5 0 1 DAI-1 AJUDANTE I SEDCON</p>
+<p>51212536 DAI-1 AJUDANTE I SEDCON</p>
+<p>5589908 DAI-1 AJUDANTE I SEDCON</p>
+<p>5 11 3 0 5 7 2 DAI-1 AJUDANTE I SEDCON</p>
+<p>5 1 2 11 9 7 1 DAI-1 AJUDANTE I SEDCON</p>
+<p>51210657 DAI-1 AJUDANTE I SEDCON</p>
+<p>51210568 DAI-1 AJUDANTE I SEDCON</p>
+<p>50933744 DAI-1 AJUDANTE I SEDCON</p>
+<p>51210592 DAI-1 AJUDANTE I SEDCON</p>
+<p>51266385 DAI-1 AJUDANTE I SEDCON</p>
+<p>51265796 DAI-1 AJUDANTE I SEDCON</p>
+<p>5 1 2 9 5 9 11 DAI-1 AJUDANTE I SEDCON</p>
+<p>51265206 DAI-1 AJUDANTE I SEDCON</p>
+<p>51265397 DAI-1 AJUDANTE I SEDCON</p>
+<p>51265168 DAI-1 AJUDANTE I SEDCON</p>
+<p>51265222 DAI-1 AJUDANTE I SEDCON</p>
+<p>51269503 DAI-1 AJUDANTE I SEDCON</p>
+<p>51221918 DAI-1 AJUDANTE I SEDCON</p>
+<p>5 11 9 6 4 2 2 DAI-1 AJUDANTE I SEDCON</p>
+<p>5719097 DAI-1 AJUDANTE I SEDCON</p>
+<p>51223597 DAI-1 AJUDANTE I SEDCON</p>
+<p>51298082 DAI-1 AJUDANTE I SEDCON</p>
+<p>51322897 DAS-8 ASSESSOR-CHEFE SEDCON</p>
+<p>44120591 DG ASSESSOR ESPECIAL S E FA Z</p>
+<p>50077481 DG ASSESSOR ESPECIAL S E FA Z</p>
+<p>VAGA DE DECRETO No 46.628, DE 03/04/2019 DAS-8 ASSESSOR S E FA Z</p>
+<p>VAGA DE DECRETO No 46.628, DE 03/04/2019 DAS-8 ASSESSOR S E FA Z</p>
+<p>VAGA DE DECRETO No 46.628, DE 03/04/2019 DAS-8 ASSESSOR S E FA Z</p>
+<p>VAGA DE DECRETO No 46.628, DE 03/04/2019 DAS-8 ASSESSOR S E FA Z</p>
+<p>VAGA DE DECRETO No 46.628, DE 03/04/2019 DAS-8 ASSESSOR S E FA Z</p>
+<p>5648890 DAS-8 ASSESSOR S E FA Z</p>
+<p>50189484 DAS-8 ASSESSOR S E FA Z</p>
+<p>50063642 DAS-8 ASSESSOR S E FA Z</p>
+<p>51007320 DAS-8 ASSESSOR S E FA Z</p>
+<p>50286153 DAS-7 ASSESSOR S E FA Z</p>
+<p>43446175 DAS-7 ASSESSOR S E FA Z</p>
+<p>50176919 DAS-7 ASSESSOR S E FA Z</p>  <p> C </p>
+<p>8767734 DAS-7 ASSESSOR S E FA Z</p>
+<p>51007584 DAS-7 ASSESSOR S E FA Z</p>
+<p>50900005 DAS-7 ASSESSOR S E FA Z</p>
+<p>43446639 DAS-7 ASSESSOR S E FA Z</p>
+<p>5 11 8 9 7 2 0 DAS-7 ASSESSOR S E FA Z</p>
+<p>50342150 DAS-7 ASSESSOR S E FA Z</p>
+<p>50933914 DAS-7 ASSESSOR S E FA Z</p>
+<p>50197096 DAS-7 ASSESSOR S E FA Z</p>
+<p>50935437 DAS-6 ASSISTENTE S E FA Z</p>
+<p>51296284 DAS-6 ASSISTENTE S E FA Z</p>
+<p>51038463 DAS-6 ASSISTENTE S E FA Z</p>
+<p>50154842 DAS-6 ASSISTENTE S E FA Z</p>
+<p>43872930 DAS-6 ASSISTENTE S E FA Z</p>
+<p>19390459 DAS-6 ASSISTENTE S E FA Z</p>
+<p>43874894 DAS-6 ASSISTENTE S E FA Z</p>
+<p>50059912 DAS-6 ASSISTENTE S E FA Z</p>
+<p>50155474 DAS-6 ASSISTENTE S E FA Z</p>
+<p>50307550 DAI-5 ASSISTENTE III S E FA Z</p>
+<p>50305441 DAI-5 ASSISTENTE III S E FA Z</p>
+<p>50882023 DAI-5 ASSISTENTE III S E FA Z</p>
+<p>44191782 DAI-5 ASSISTENTE III S E FA Z</p>
+<p>5 11 6 3 2 7 6 DAI-5 ASSISTENTE III S E FA Z</p>
+<p>50962647 DAI-5 ASSISTENTE III S E FA Z</p>
+<p>50732285 DAI-5 ASSISTENTE III S E FA Z</p>
+<p>50951203 DAI-5 ASSISTENTE III S E FA Z</p>
+<p>5 11 6 3 2 4 1 DAI-5 ASSISTENTE III S E FA Z</p>
+<p>50720031 DAI-5 ASSISTENTE III S E FA Z</p>
+<p>20322968 DAI-5 ASSISTENTE III S E FA Z</p>
+<p>50977610 DG ASSESSOR ESPECIAL GOVERNADORIA DO ESTADO</p>
+<p>5 111 5 9 9 9 DAI-4 ASSISTENTE III GOVERNADORIA DO ESTADO</p>
+<p>5 111 5 8 6 7 DAI-4 ASSISTENTE III GOVERNADORIA DO ESTADO</p>
+<p>5 11 2 2 7 5 8 DAI-4 ASSISTENTE III GOVERNADORIA DO ESTADO</p>
+<p>51026384 DAI-2 AJUDANTE II GOVERNADORIA DO ESTADO</p>
+<p>5 111 8 1 3 0 DAI-2 AJUDANTE II GOVERNADORIA DO ESTADO</p>
+<p><b>ANEXO II</b></p>
+<p><b>Cargos a serem transformados Cargos resultante da transformacao</b></p>
+<p><b>Simbolo Cargo Qtde. Origem do Cargo Simbolo Cargo Qtde. Lotacao Atual</b></p>
+<p>DG Assessor Especial (1) 1 S E FA Z CG Chefe de Gabinete 1 VG</p>
+<p>DG Assessor Especial (2) 1 S E FA Z SA Subsecretario Adjunto 1 VG</p>
+<p>DAI-1 Ajudante I (3) 10 SEDCON</p>
+<p>DAS-8 Assessor (4) 9 S E FA Z DAS-8 Superintendente 9 VG</p>
+<p>DAS-7 Assessor (5) 8 S E FA Z DAS-7 Coordenador 8 VG</p>
+<p><b>Id funcional dos ultimos ocupantes: (1)</b> 44120591 <b>(2)</b> 50077481 <b>(3)</b> 5589908, 51130572, 51211971, 51210657, 51210568, 50933744, 51210592, 51266385, 51265796 e 51295911 <b>(4)</b> 5 vagas de VAGA DE DECRETO No 46.628, DE 03/04/2019 e Ids: 5648890, 50189484, 50063642 e 51007320 <b>(5)</b> 50286153, 43446175, 50176919, 8767734, 51007584, 50900005, 43446639 e 51189720</p>
+<p><b>Id: 2451192</b></p>
+<p><b>DECRETO No 48.316 DE 10 DE JANEIRO DE 2023</b></p>
+<p><b>DISPOE, SEM AUMENTO DE DESPESA, SOBRE A ESTRUTURA ORGANIZACIONAL DA SECRETARIA DE ESTADO DE HABITACAO, E DA OUTRAS PROVIDENCIAS.</b></p>
+<p><b>O GOVERNADOR DO ESTADO DO RIO DE JANEIRO</b>, em exercicio, no uso de suas atribuicoes constitucionais e legais, e tendo em vista o que consta do Processo no SEI-150001/000879/2023,</p>
+<p><b>CONSIDERANDO:</b></p>
+<p>a necessidade de observar os principios que orientam a Administracao Publica esculpidos no artigo 37 da Constituicao Federal;</p>
+<p>que a presente estrutura organizacional nao acarretara em aumento de despesa;</p>
+<p>que compete, privativamente, ao Governador dispor sobre a organizacao e o funcionamento da administracao estadual,</p>
+<p><b>D E C R E TA :</b></p>
+<p><b>Art. 1o</b> - Fica criada, sem aumento de despesa, a estrutura organizacional basica da Secretaria de Estado Habitacao, na forma abaixo indicada:</p>
+<p><b>Paragrafo Unico</b> - Em consequencia do disposto no caput deste artigo, ficam transferidos os Entes Vinculados relacionados na estrutura abaixo, da Secretaria de Estado de Infraestrutura e Obras para a estrutura da Secretaria de Estado de Habitacao (SEHAB).</p>
+<p>1. Gabinete do Secretario 1.1. Chefia de Gabinete 1.1.1. Coordenadoria de Comunicacao 1.1.2. Coordenadoria Administrativa 1.1.3. Coordenadoria de Processos</p>
+<p>2. Subsecretaria Executiva 2.1. Subsecretaria Adjunta 2.1.1. Assessoria Juridica 2.1.2. Unidade de Controle Interno 2.1.3. Corregedoria 2.1.4. Ouvidoria 2.1.5. Assessoria Especial 2.2. Assessoria Executiva 2.2.1. Coordenadoria de Fiscalizacao 2.2.2. Coordenadoria de Prestacao de Contas 2.3. Superintendencia de Licitacoes 2.3.1. Coordenadoria de Compras 2.3.2. Coordenadoria de Licitacoes</p>
+<p>2.3.3. Coordenadoria de Contratos 2.4. Superintendencia de Administracao 2.5. Coordenadoria de Recursos Humanos 2.5.1. Coordenadoria de Informatica 2.5.2. Coordenadoria de Patrimonio, Protocolo, Arquivo e Publicacoes 2.5.3. Coordenadoria de Transportes e Apoio Operacional 2.6. Superintendencia de Planejamento e Gestao de Financas 2.6.1. Coordenadoria de Captacao de Recurso e Convenios 2.6.2. Coordenadoria de Planejamento e Orcamento 2.6.3. Coordenadoria de Suprimento e Almoxarifado 2.6.4. Coordenadoria Financeira e Contabil</p>
+<p>3. Subsecretaria de Habitacao de Interesse Social 3.1. Superintendencia de Obras 3.1.1. Coordenadoria de Obras 3.1.2. Coordenadoria de Acompanhamento e Monitoramento 3.2. Superintendencia de Projetos de Engenharia e Arquitetura 3.2.1. Coordenadoria de Arquitetura 3.2.2. Coordenadoria de Engenharia 3.3. Superintendencia de Acompanhamento e Medicao 3.3.1.1. Coordenadoria de Implantacao de Projetos 3.3.1.2. Coordenadoria de Medicao de Projetos 3.4. Superintendencia de Parcerias Publico-Privadas 3.4.1. Coordenadoria de Editais 3.4.2. Coordenadoria de Gestao de Parcerias 3.5. Superintendencia de Programas Habitacionais 3.5.1. Coordenadoria de Programas de Habitacao Popular 3.5.2. Coordenadoria de Planejamento Habitacional 3.6. Superintendencia de Obras de Reformas de Unidades Habitacionais 3.6.1. Coordenadoria de Melhorias Habitacionais 3.6.2. Coordenadoria de Regularizacao Fundiaria 3.7. Superintendencia de Projetos e Trabalhos de Interesses Sociais 3.7.1. Coordenadoria de Inclusao Social e Produtiva 3.7.2. Coordenadoria de Habitabilidade Familiar e Comunitaria 3.7.3. Coordenadoria de PTTS 3.7.4. Coordenadoria de Monitoramento e Avaliacao de Acoes 3.7.5. Coordenadoria de Sustentabilidade de Projetos Habitacionais 3.7.6. Coordenadoria de Cadastramento de Unidades Habitacionais e Acompanhamento Social dos Beneficiarios</p>
+<p>4. Subsecretaria de Urbanizacao, Saneamento, Erradicacao de Riscos e Desastres e Projetos Especiais 4.1. Superintendencia de Saneamento e Urbanizacao da Capital e Regioes Metropolitanas 4.1.1. Coordenadoria de Saneamento da Capital e Regioes Metropolitanas</p>
+<p>4.1.2. Coordenadoria de Urbanizacao da Capital e Regioes Metropolitanas 4.2. Superintendencia de Saneamento e Urbanizacao do Interior 4.2.1. Coordenadoria de Saneamento do Interior 4.2.2. Coordenadoria de Urbanizacao do Interior 4.3. Superintendencia Prevencao e Erradicacao de Riscos e Desastres 4.3.1. Coordenadoria de Prevencao de Desastres 4.3.2. Coordenadoria de Analise de Erradicacao de Riscos 4.4. Superintendencia Projetos Especiais 4.4.1. Coordenadoria da Casa da Gente 4.4.2. Coordenadoria do Programa Na Regua 4.4.3. Coordenadoria do Programa Comunidade Cidade 4.4.4. Coordenadoria de Estudos e Prevencao 5. Entes Vinculados 5.1. Conselho Estadual de Habitacao e Saneamento do Estado do Rio de Janeiro - CEHAS 5.2. Fundo Estadual de Habitacao e Interesse Social - FEHIS 5.3. Companhia Estadual de Habitacao - CEHAB . <b>Art. 2o -</b> A Secretaria de Estado de Habitacao (SEHAB), sera regida por um Secretario de Estado, simbolo SE, objeto de transferencia estabelecida de acordo com Anexo Unico do Decreto no 48.301, de 01/01/2023, da antiga Secretaria de Estado de Infraestrutura e Obras.</p>
+<p><b>Art. 3o</b> - Ficam transferidos, sem aumento de despesa, os cargos em comissao, vagos e/ou ocupados, com suas respectivas Gratificacoes por Encargos Especiais (GEEs), na forma mencionada no Anexo Unico. <b>Art. 4o</b> - Tambem ficam transferidos os Programas de Trabalho da Subsecretaria de Habitacao, com seus respectivos orcamentos, bens moveis e imoveis, contratos e congeneres, para a recem-criada Secretaria de Estado de Habitacao (SEHAB), inclusive a manutencao de todas as obrigacoes de regularizacao patrimonial de bens moveis e imoveis, de assuncao de responsabilidade pelas despesas e demais obrigacoes dos contratos vigentes.</p>
+<p><b>Paragrafo Unico -</b> No tocante aos Programas de Trabalho no sistema de Planejamento e Gestao (SIPLAG), a Secretaria de Estado de Planejamento e Gestao (SEPLAG) emitira norma complementar com as disposicoes tecnicas de detalhamento orcamentario.</p>
+<p><b>Art. 5o</b> - Este Decreto entrara em vigor na data de sua publicacao, retroagindo seus efeitos a contar de 02 de janeiro de 2023.</p>
+<p>Rio de Janeiro, 10 de janeiro de 2023</p>
+<p><b>CLAUDIO CASTRO </b>Governador</p>
+<p><b>ANEXO UNICO</b></p>
+<p><b>CARGOS TRANSFERIDOS</b></p>
+<p><b>ID SIMBOLO NOME CARGO Orgao de Origem Lotacao Resultante</b></p>
+<p>43491278 SS SUBSECRETARIO <b>SEINFRA Subsecretaria de Habitacao SEHAB</b></p>
+<p>5 11 9 1 8 3 0 DG SUPERINTENDENTE <b>SEINFRA Subsecretaria de Habitacao SEHAB</b></p>
+<p>51209870 DG SUPERINTENDENTE <b>SEINFRA Subsecretaria de Habitacao SEHAB</b></p>
+<p>51223210 DAS-6 ASSISTENTE <b>SEINFRA Subsecretaria de Habitacao SEHAB</b></p>
+<p>51233380 DAI-6 ASSISTENTE II <b>SEINFRA Subsecretaria de Habitacao SEHAB</b></p>
+<p>51324520 DAI-1 AJUDANTE I <b>SEINFRA Subsecretaria de Habitacao SEHAB</b></p>
+<p>51209900 DAI-1 AJUDANTE I <b>SEINFRA Subsecretaria de Habitacao SEHAB</b></p>
+<p>51220962 DAI-1 AJUDANTE I <b>SEINFRA Subsecretaria de Habitacao SEHAB</b></p>
+<p>51220385 DAI-1 AJUDANTE I <b>SEINFRA Subsecretaria de Habitacao SEHAB</b></p>
+<p>44174160 DAI-1 AJUDANTE I <b>SEINFRA Subsecretaria de Habitacao SEHAB</b></p>
+<p>51209454 DAI-1 AJUDANTE I <b>SEINFRA Subsecretaria de Habitacao SEHAB</b></p>  <p> C </p>
+<p>51290286 DAI-1 AJUDANTE I <b>SEINFRA Subsecretaria de Habitacao SEHAB</b></p>
+<p>51215268 DAI-1 AJUDANTE I <b>SEINFRA Subsecretaria de Habitacao SEHAB</b></p>
+<p>19194242 DAS-6 ASSISTENTE <b>SEINFRA Subsecretaria de Habitacao SEHAB</b></p>
+<p><b>Id: 2451193</b></p>
+<p><b>DECRETO No 48.317 DE 10 DE JANEIRO DE 2023</b></p>
+<p><b>TRANSFEREM, SEM AUMENTO DE DESPESA, OS CARGOS EM COMISSAO VAGOS QUE MENCIONA, E DA OUTRAS PROVIDENCIAS.</b></p>
+<p><b>O GOVERNADOR DO ESTADO DO RIO DE JANEIRO</b>, no uso de suas atribuicoes constitucionais e legais, e tendo em vista o que consta do Processo no SEI-150001/003653/2022,</p>
+<p><b>CONSIDERANDO:</b></p>
+<p>a necessidade de observar os principios que orientam a Administracao Publica esculpidos no artigo 37 da Constituicao Federal; e</p>
+<p>que compete privativamente ao Governador dispor sobre a organizacao e o funcionamento da administracao publica estadual;</p>
+<p><b>D E C R E TA :</b></p>
+<p><b>Art. 1o </b>Ficam transferidos, sem aumento de despesa, os cargos em comissao, vagos e/ou ocupados, na forma mencionada no Anexo Unico ao presente Decreto.</p>
+<p><b>Art. 2o</b>Este Decreto entrara em vigor na data de sua publicacao.</p>
+<p>Rio de Janeiro, 10 de janeiro de 2023</p>
+<p><b>CLAUDIO CASTRO </b>Governador</p>
+<p><b>ANEXO UNICO</b></p>
+<p>ID SIMBOLO NOME CARGO Orgao de Origem Lotacao Resultante</p>
+<p>50377841 (ultimo ocupante) DAI-5 Assistente III S E FA Z SECC</p>
+<p>VAGA DE DECRETO No 46.026, de 20/06/2017</p>
+<p>DAI-5 Assistente III S E FA Z SECC</p>
+<p>4 3 3 11 9 3 8 (ultimo ocupante) DAI-5 Assistente III S E FA Z SECC</p>
+<p>50142372 (ultimo ocupante) DAI-5 Assistente III S E FA Z SECC</p>
+<p>43292461 (ultimo ocupante) DAI-5 Assistente III S E FA Z SECC</p>
+<p>43246885 (ultimo ocupante) DAI-5 Assistente III S E FA Z SECC</p>
+<p>20324642 (ultimo ocupante) DAI-5 Assistente III S E FA Z SECC</p>
+<p>42143152 (ultimo ocupante) DAI-5 Assistente III S E FA Z SECC</p>
+<p>43292500 (ultimo ocupante) DAI-5 Assistente III S E FA Z SECC</p>
+<p>50884638 (ultimo ocupante) DAI-5 Assistente III S E FA Z SECC</p>
+<p>42760542 (ultimo ocupante) DAI-5 Assistente III S E FA Z SECC</p>
+<p>20320752 (ultimo ocupante) DAI-5 Assistente III S E FA Z SECC</p>
+<p>41846567 (ultimo ocupante) DAI-5 Assistente III S E FA Z SECC</p>
+<p>50833235 (ultimo ocupante) DAI-5 Assistente III S E FA Z SECC</p>
+<p>4 3 5 0 9 7 11 (ultimo ocupante) DAI-5 Assistente III S E FA Z SECC</p>
+<p>42760631 (ultimo ocupante) DAI-5 Assistente III S E FA Z SECC</p>
+<p>42460607 (ultimo ocupante) DAI-5 Assistente III S E FA Z SECC</p>
+<p>51013002 (ultimo ocupante) DAI-5 Assistente III S E FA Z SECC</p>
+<p>43312349 (ultimo ocupante) DAI-5 Assistente III S E FA Z SECC</p>
+<p>51336187 (ultimo ocupante) DAI-5 Assistente III S E FA Z SECC</p>
+<p>43312004 (ultimo ocupante) DAI-5 Assistente III S E FA Z SECC</p>
+<p>VAGA DE DECRETO No 47.560, de 08/04/2021 DAI-5 Assistente III S E FA Z SECC</p>
+<p>VAGA DE DECRETO No 47.560, de 08/04/2021 DAI-5 Assistente III S E FA Z SECC</p>
+<p>VAGA DE DECRETO No 47.560, de 08/04/2021 DAI-5 Assistente III S E FA Z SECC</p>
+<p>VAGA DE DECRETO No 47.560, de 08/04/2021 DAI-5 Assistente III S E FA Z SECC</p>
+<p>VAGA DE DECRETO No 47.560, de 08/04/2021 DAI-5 Assistente III S E FA Z SECC</p>
+<p>VAGA DE DECRETO No 47.560, de 08/04/2021 DAI-5 Assistente III S E FA Z SECC</p>
+<p>43776019 (ultimo ocupante) DAI-5 Assistente III S E FA Z SECC</p>
+<p>VAGA DE DECRETO No 46.026, DE 20/06/2017</p>
+<p>DAI-6 Assistente II S E FA Z SECC</p>
+<p>VAGA DE DECRETO No 46.026, DE 20/06/2017</p>
+<p>DAI-6 Assistente II S E FA Z SECC</p>
+<p>VAGA DE DECRETO No 46.026, DE 20/06/2017</p>
+<p>DAI-6 Assistente II S E FA Z SECC</p>
+<p>VAGA DE DECRETO No 46.026, DE 20/06/2017</p>
+<p>DAI-6 Assistente II S E FA Z SECC</p>
+<p>VAGA DE DECRETO No 46.026, DE 20/06/2017</p>
+<p>DAI-6 Assistente II S E FA Z SECC</p>
+<p>VAGA DE DECRETO No 46.026, DE 20/06/2017</p>
+<p>DAI-6 Assistente II S E FA Z SECC</p>
+<p>VAGA DE DECRETO No 46.026, DE 20/06/2017</p>
+<p>DAI-6 Assistente II S E FA Z SECC</p>
+<p>VAGA DE DECRETO No 46.026, DE 20/06/2017</p>
+<p>DAI-6 Assistente II S E FA Z SECC</p>
+<p>VAGA DE DECRETO No 46.026, DE 20/06/2017</p>
+<p>DAI-6 Assistente II S E FA Z SECC</p>
+<p>VAGA DE DECRETO No 46.026, DE 20/06/2017</p>
+<p>DAI-6 Assistente II S E FA Z SECC</p>
+<p>VAGA DE DECRETO No 46.026, DE 20/06/2017</p>
+<p>DAI-6 Assistente II S E FA Z SECC</p>
+<p>50142887 (ultimo ocupante) DAI-6 Assistente II S E FA Z SECC</p>
+<p>5 11 2 5 4 2 0 (ultimo ocupante) DAI-6 Assistente II S E FA Z SECC</p>
+<p>50831593 (ultimo ocupante) DAI-6 Assistente II S E FA Z SECC</p>  <p> C </p>
+<p>50003500 (ultimo ocupante) DAI-6 Assistente II S E FA Z SECC</p>
+<p>50734571 (ultimo ocupante) DAI-6 Assistente II S E FA Z SECC</p>
+<p>43184685 (ultimo ocupante) DAI-6 Assistente II S E FA Z SECC</p>
+<p>14801256 (ultimo ocupante) DAI-6 Assistente II S E FA Z SECC</p>
+<p>20138067 (ultimo ocupante) DAI-6 Assistente II S E FA Z SECC</p>
+<p>43591884 (ultimo ocupante) DAI-6 Assistente II S E FA Z SECC</p>
+<p>50328689 (ultimo ocupante) DAI-6 Assistente II S E FA Z SECC</p>
+<p>43190669 (ultimo ocupante) DAI-6 Assistente II S E FA Z SECC</p>
+<p>50788370 (ultimo ocupante) DAI-6 Assistente II S E FA Z SECC</p>
+<p>19404050 (ultimo ocupante) DAI-6 Assistente II S E FA Z SECC</p>
+<p>50160583 (ultimo ocupante) DAI-6 Assistente II S E FA Z SECC</p>
+<p>50983865 (ultimo ocupante) DAI-6 Assistente II S E FA Z SECC</p>
+<p>50933140 (ultimo ocupante) DAI-6 Assistente II S E FA Z SECC</p>
+<p>43987605 (ultimo ocupante) DAI-6 Assistente II S E FA Z SECC</p>
+<p>50820524 (ultimo ocupante) DAI-6 Assistente II S E FA Z SECC</p>
+<p>43190715 (ultimo ocupante) DAI-6 Assistente II S E FA Z SECC</p>
+<p>VAGA DE DECRETO No 46.026, DE 20/06/2017</p>
+<p>DAS-6 Assistente S E FA Z SECC</p>
+<p>VAGA DE DECRETO No 46.026, DE 20/06/2017</p>
+<p>DAS-6 Assistente S E FA Z SECC</p>
+<p>VAGA DE DECRETO No 46.026, DE 20/06/2017</p>
+<p>DAS-6 Assistente S E FA Z SECC</p>
+<p>VAGA DE DECRETO No 46.026, DE 20/06/2017</p>
+<p>DAS-6 Assistente S E FA Z SECC</p>
+<p>VAGA DE DECRETO No 46.026, DE 20/06/2017</p>
+<p>DAS-6 Assistente S E FA Z SECC</p>
+<p>50922149 (ultimo ocupante) DAS-6 Assistente S E FA Z SECC</p>
+<p>19428626 (ultimo ocupante) DAS-6 Assistente S E FA Z SECC</p>
+<p>50919750 (ultimo ocupante) DAS-6 Assistente S E FA Z SECC</p>
+<p>5570468 (ultimo ocupante) DAS-6 Assistente S E FA Z SECC</p>
+<p>50065793 (ultimo ocupante) DAS-6 Assistente S E FA Z SECC</p>
+<p>50333720 (ultimo ocupante) DAS-6 Assistente S E FA Z SECC</p>
+<p>5 11 9 0 6 4 8 (ultimo ocupante) DAS-6 Assistente S E FA Z SECC</p>
+<p>42758327 (ultimo ocupante) DAS-6 Assistente S E FA Z SECC</p>
+<p>44170408 (ultimo ocupante) DAS-6 Assistente S E FA Z SECC</p>
+<p>50973169 (ultimo ocupante) DAS-6 Assistente S E FA Z SECC</p>
+<p>50363441 (ultimo ocupante) DAS-6 Assistente S E FA Z SECC</p>
+<p>5594006 (ultimo ocupante) DAS-7 Assessor S E FA Z SECC</p>
+<p>43872271 (ultimo ocupante) DAS-7 Assessor S E FA Z SECC</p>
+<p>19199058 (ultimo ocupante) DAS-7 Assessor S E FA Z SECC</p>
+<p>44320680 (ultimo ocupante) DAS-7 Assessor S E FA Z SECC</p>
+<p>50154931 (ultimo ocupante) DAS-7 Assessor S E FA Z SECC</p>
+<p>50255169 (ultimo ocupante) DAS-7 Assessor S E FA Z SECC</p>
+<p>51249490 (ultimo ocupante) DAS-8 Assessor S E FA Z SECC</p>
+<p>50060830 (ultimo ocupante) DAS-8 Assessor S E FA Z SECC</p>
+<p>VAGA DE DECRETO No 47.137, DE 24/06/2020</p>
+<p>DAS-8 Assessor S E FA Z SECC</p>
+<p>51053500 (ultimo ocupante) DAS-8 Assessor S E FA Z SECC</p>
+<p>51004615 (ultimo ocupante) DAS-8 Assessor S E FA Z SECC</p>
+<p>41897218 (ultimo ocupante) DAS-8 Assessor S E FA Z SECC</p>
+<p>50155016 (ultimo ocupante) DAS-8 Coordenador S E FA Z SECC</p>
+<p>50150014 (ultimo ocupante) DAS-8 Coordenador S E FA Z SECC</p>
+<p>19428626 (ultimo ocupante) DAS-8 Coordenador S E FA Z SECC</p>
+<p>50064150 (ultimo ocupante) DAS-8 Coordenador S E FA Z SECC</p>
+<p>32166141 (ultimo ocupante) DAS-8 Coordenador S E FA Z SECC</p>
+<p>43650589 (ultimo ocupante) DAS-8 Coordenador S E FA Z SECC</p>
+<p>Mario Jorge de Queiroz Goncalves (ultimo ocupante)</p>
+<p>DAS-8 Assessor S E FA Z SECC</p>
+<p>DAS-8 Coordenador S E FA Z SECC</p>
+<p>DAS-8 Coordenador S E FA Z SECC</p>
+<p>50006770 (ultimo ocupante) DG Assessor Especial S E FA Z SECC</p>
+<p>5006579-3 (ultimo ocupante) DG Superintendente S E FA Z SECC</p>
+<p>DG NAO TEM S E FA Z SECC</p>
+<p>51214725 DAI-1 AJUDANTE I SEDCON SECC</p>
+<p>51287994 DAI-1 AJUDANTE I SEDCON SECC</p>
+<p>51287315 DAI-1 AJUDANTE I SEDCON SECC</p>
+<p>51287560 DAI-1 AJUDANTE I SEDCON SECC</p>
+<p>51287625 DAI-1 AJUDANTE I SEDCON SECC</p>
+<p>51287595 DAI-1 AJUDANTE I SEDCON SECC</p>
+<p>51287277 DAI-1 AJUDANTE I SEDCON SECC</p>
+<p>51223767 DAI-1 AJUDANTE I SEDCON SECC</p>
+<p>22415670 DAI-1 AJUDANTE I SEDCON SECC</p>
+<p>43460941 DAI-1 AJUDANTE I SEDCON SECC</p>
+<p>5 1 2 11 5 1 3 DAI-1 AJUDANTE I SEDCON SECC</p>
+<p>52282500 DAI-1 AJUDANTE I SEDCON SECC</p>
+<p>5 1 2 7 7 6 11 DAI-1 AJUDANTE I SEDCON SECC</p>
+<p>50868802 DAI-1 AJUDANTE I SEDCON SECC</p>  <p> C </p>
+<p>51313391 DAI-1 AJUDANTE I SEDCON SECC</p>
+<p>51317214 DAI-1 AJUDANTE I SEDCON SECC</p>
+<p>51317320 DAI-1 AJUDANTE I SEDCON SECC</p>
+<p>51316960 DAI-1 AJUDANTE I SEDCON SECC</p>
+<p>51313448 DAI-1 AJUDANTE I SEDCON SECC</p>
+<p>51323290 DAI-1 AJUDANTE I SEDCON SECC</p>
+<p>51304120 DAI-1 AJUDANTE I SEDCON SECC</p>
+<p>51304732 DAI-1 AJUDANTE I SEDCON SECC</p>
+<p>51303515 DAI-1 AJUDANTE I SEDCON SECC</p>
+<p>51298139 DAI-1 AJUDANTE I SEDCON SECC</p>
+<p>32194668 (ultimo ocupante) DAS-8 ASSESSOR GOVERNADORIA DO E S TA D O SEGG</p>
+<p>51068745 (ultimo ocupante) DAS-8 ASSESSOR GOVERNADORIA DO E S TA D O SEGG</p>
+<p><b>Id: 2451194</b></p>
+<p><b>*DECRETO No 48.296 DE 29 DE DEZEMBRO DE 2022</b></p>
+<p><b>DISPOE SOBRE A TRANSFERENCIA, SEM AUMENTO DE DESPESA, DA SUBSECRETARIA DE PROTECAO E BEM-ESTAR ANIMAL DA SECRETARIA DE AGRICULTURA, PECUARIA, PESCA E ABASTECIMENTO - SEAPPA PARA A SECRETARIA DE ESTADO DA SAUDE, E DA OUTRAS PROVIDENCIAS.</b></p>
+<p><b>O GOVERNADOR DO ESTADO DO RIO DE JANEIRO,</b> no uso de suas atribuicoes constitucionais e legais, e o contido no Processo no SEI-150001/029409/2022,</p>
+<p><b>CONSIDERANDO:</b></p>
+<p>a importancia de fortalecimento da politica de protecao e bem-estar dos animais do Estado do Rio de Janeiro, tendo em vista a ocorrencia de zoonoses, as quais requerem acoes de vigilancia e controle dirigidas a populacao animal.</p>
+<p>a necessidade de observar os principios que orientam a Administracao Publica esculpidos no artigo 37 da CRFB;</p>
+<p>que a reforma administrativa trara para o Estado do Rio de Janeiro maior eficiencia nos atos de gestao;</p>
+<p>que a presente reforma administrativa nao acarretara em aumento de despesa; e</p>
+<p>que compete privativamente ao Chefe do Poder Executivo Estadual dispor sobre a organizacao e o funcionamento da administracao estadual;</p>
+<p><b>D E C R E TA :</b></p>
+<p><b>Art. 1o - </b>Fica transferida, sem aumento de despesa, a Subsecretaria de Protecao e Bem-Estar Animal, com os respectivos cargos em comissao vagos e/ou ocupados, da estrutura organizacional da Secretaria de Estado de Agricultura, Pecuaria, Pesca e Abastecimento - SEAPPA para a Secretaria de Estado de Saude - SES.</p>
+<p><b>Art. 2o - </b>Diante do disposto no art. 1o, ficam transferidos, sem aumento de despesa, os cargos em comissao da estrutura da Secretaria de Estado de Agricultura, Pecuaria, Pesca e Abastecimento - SEAPPA para a Secretaria de Estado de Saude - SES, com suas respectivas Gratificacoes de Encargos Especiais - GEE, conforme Anexo Unico.</p>
+<p><b>Art. 3o -</b> A Secretaria de Estado da Saude - SES e a Secretaria de Estado de Agricultura, Pecuaria, Pesca e Abastecimento - SEAPPA deverao publicar em ate 30 (trinta) dias corridos, a contar da publicacao deste Decreto, suas estruturas consolidadas.</p>
+<p><b>Art. 4o -</b> Este Decreto entra em vigor a contar da sua publicacao, revogando quaisquer disposicoes em contrario.</p>
+<p>Rio de Janeiro, 29 de dezembro de 2022</p>
+<p><b>CLAUDIO CASTRO </b>Governador <b>ANEXO UNICO</b></p>
+<p><b>CARGO SIMBOLO ID FUNCIONAL</b></p>
+<p>Subsecretario SS 51060981</p>
+<p>Superintendente DG 51364018</p>
+<p>Superintendente DG 5 0 7 8 0 6 11</p>
+<p>Coordenador DAS-8 50702556</p>
+<p>Assessor DAS-8 5 11 9 3 9 3 0</p>
+<p>Assessor DAS-8 51265818</p>
+<p>Assistente DAS-6 51266997</p>
+<p>Assistente DAS-6 51244155</p>
+<p>Assistente II DAI-6 50897721</p>
+<p>Assistente II DAI-6 51363682</p>
+<p>Assistente III DAI-4 51232669</p>
+<p>Ajudante II DAI-2 51265184</p>
+<p>Ajudante II DAI-2 51351765</p>
+<p>Ajudante II DAI-2 50939084</p>
+<p>Ajudante II DAI-2 51058316</p>
+<p>*Republicado por ter saido com incorrecoes no D.O. de 30/12/2022.</p>
+<p><b>Id: 2451152</b></p>
+<p><b>Atos do Governador</b></p>
+<p><b>ATOS DO GOVERNADOR</b></p>
+<p><b>D E C R E TO S DE 10 DE JANEIRO DE 2023</b></p>
+<p><b>O GOVERNADOR DO ESTADO DO RIO DE JANEIRO,</b> no uso de suas atribuicoes constitucionais e legais,</p>
+<p><b>R E S O LV E :</b></p>
+<p><b>NOMEAR ROGERIO SACCHI</b> para exercer, o cargo em comissao de Chefe de Gabinete, simbolo CG, da Secretaria de Estado de Transporte e Mobilidade Urbana, anteriormente ocupado por Felipe de Abreu Caceres, ID Funcional no 5098000-9. Processo no SEI100001/002448/2022.</p>
+<p><b>EXONERAR,</b> com validade a contar de 10 de janeiro de 2023,<b> ARISTEU LEONARDO TAVARES,</b> ID FUNCIONAL No 2227772-2, do cargo em comissao de Subsecretario de Estado, simbolo SS, da Subsecretaria Militar (SSM), do Gabinete de Seguranca Institucional do Governo do Estado do Rio de Janeiro - GSI-RJ. Processo no SEI390001/000009/2023.</p>
+<p><b>NOMEAR CRISTIANO LUIZ GASPAR</b>, ID Funcional no 2505871-1, para exercer, com validade a contar de 10 de janeiro de 2023, o cargo em comissao de Subsecretario de Estado, simbolo SS, da Subsecretaria Militar (SSM), do Gabinete de Seguranca Institucional do Governo do Estado do Rio de Janeiro - GSI-RJ, anteriormente ocupado por Aristeu Leonardo Tavares, ID Funcional no 2227772-2. Processo no SEI-390001/000009/2023.</p>
+<p><b>EXONERAR</b>, com validade a contar de 10 de janeiro de 2023,<b> CRISTIANO LUIZ GASPAR</b>, ID Funcional no 2505871-1, do cargo em comissao de Superintendente, simbolo DG, da Superintendencia de Seguranca, da Subsecretaria Militar (SSM), do Gabinete de Seguranca Institucional do Governo do Estado do Rio de Janeiro - GSI-RJ. Processo no SEI-390001/000009/2023.</p>
+<p><b>DEC R E TO 09 DE JANEIRO DE 2023</b></p>
+<p><b>O GOVERNADOR DO ESTADO DO RIO DE JANEIRO,</b> no uso de suas atribuicoes constitucionais e legais,</p>
+<p><b>R E S O LV E :</b></p>
+<p><b>*NOMEAR DIEGO DE ANDRADE FARO TELES</b>, ID FUNCIONAL No 5106874-5, para exercer o cargo em comissao de Superintendente, simbolo DG, da Assessoria Especial de Publicidade e Promocao, da Subsecretaria Geral, da Secretaria de Estado da Casa Civil, anteriormente ocupado por Ana Luiza Gomes da Silva, ID Funcional no 5106484-7. Processo no SEI-150001/002802/2022. *Omitido D.O de 10/01/2023. <b>Id: 2451196</b></p>
+<p><b>Secretaria de Estado da Casa Civil</b></p>
+<p><b>ATOS DO SECRETARIO</b></p>
+<p><b>DE 10 DE JANEIRO DE 2023</b></p>
+<p><b>O SECRETARIO DE ESTADO DA CASA CIVIL,</b> usando das atribuicoes que lhe foram conferidas pelo Decreto no 40.644, de 08/03/2007,</p>
+<p><b>R E S O LV E :</b></p>
+<p><b>NOMEAR MICHAELL CEZAR SOARES FRANCA,</b> para exercer o cargo em comissao de Assessor, simbolo DAS-8, da Superintendencia de Cerimonial e Eventos da Secretaria de Estado do Gabinete do Governador, em vaga prevista pelo Decreto no 48.317, de 10 de janeiro de 2023. Processo no SEI-150001/002802/2022.</p>
+<p><b>NOMEAR ARISTEU LEONARDO TAVARES, </b>ID FUNCIONAL No 2227772-2, para exercer o cargo em comissao de Assessor, simbolo DAS-8, da Secretaria de Estado do Gabinete do Governador, em vaga prevista pelo Decreto no 48.317, de 10 de janeiro de 2023. Processo no SEI-150001/002802/2022.</p>
+<p><b>NOMEAR KARLA QUINHOES PAES TAVARES</b>, ID FUNCIONAL No 1906616-3, para exercer o cargo em comissao de Assessor, simbolo DAS-8, da Secretaria de Estado de Transporte e Mobilidade Urbana, anteriormente ocupado por Roberto Huthmacher Soares Motta, ID Funcional n 5130611-5. Processo no SEI-100001/000015/2023.</p>
+<p><b>NOMEAR MARCELO ARANTES ALVIM</b> para exercer, o cargo em comissao de Assessor, simbolo DAS-8, da Secretaria de Estado de Transporte e Mobilidade Urbana, anteriormente ocupado por Paulo Cesar Pereira, ID Funcional no 5135159-5. Processo no SEI100001/000018/2023.</p>
+<p><b>NOMEAR CAIO FERNANDO MANOEL DAMACENA</b> para exercer, o cargo em comissao de Assessor, simbolo DAS-8, da Secretaria de Estado de Transporte e Mobilidade Urbana, anteriormente ocupado por Wilian Marcon, ID Funcional no 5125811-0. Processo no SEI100001/000017/2023.</p>
+<p><b>NOMEAR RONALDO PEREIRA NOGUEIRA</b> para exercer, o cargo em comissao de Assessor, simbolo DAS-7, da Secretaria de Estado de Transporte e Mobilidade Urbana, anteriormente ocupado por Pedro Augusto Costa Cordeiro Cunha Ribeiro, ID Funcional 5127641-0. Processo no SEI-100001/000049/2023.</p>
+<p><b>NOMEAR MATHEUS PARAISO DE SOUZA</b> para exercer, o cargo em comissao de Assessor, simbolo DAS-7, da Secretaria de Estado de Transporte e Mobilidade Urbana, anteriormente ocupado por Bernardo Padilha do Nascimento Silva, ID Funcional no 5136759-9. Processo no SEI-100001/000020/2023.</p>
+<p><b>NOMEAR DIEGO NEPOMUCENO ALBERTO</b> para exercer, o cargo em comissao de Assessor, simbolo DAS-7, da Secretaria de Estado de Transporte e Mobilidade Urbana, anteriormente ocupado por Marcelo Diniz Silva, ID Funcional no 5135734-8. Processo no SEI100001/002432/2022.</p>
+<p><b>NOMEAR ANNA CAROLINA PINHEIRO DA COSTA SILVA</b> para exercer, o cargo em comissao de Assistente, simbolo DAS-6, da Secretaria de Estado de Transporte e Mobilidade Urbana, anteriormente ocupado por Gabriel Bottino Tavares, ID Funcional no 5132324-9. Processo no SEI-100001/000016/2023.</p>
+<p><b>NOMEAR EDUARDO HENRIQUE CONSTANTINO DA SILVA</b> para exercer, o cargo em comissao de Assistente, simbolo DAS-6, da Secretaria de Estado de Transporte e Mobilidade Urbana, anteriormente ocupado por Christiane de Andrade Costa, ID Funcional no 4374599-7. Processo no SEI-100001/000070/2023.</p>
+<p><b>NOMEAR LUIS HENRIQUE CORREIA DA SILVA</b> para exercer, o cargo em comissao de Assistente, simbolo DAS-6, da Coordenadoria de Gestao de Pessoas, do Departamento Geral de Administracao e Financas, da Chefia de Gabinete, da Secretaria de Estado de Transporte e Mobilidade Urbana, anteriormente ocupado por Bruno Eduardo Falcao Ayres, ID Funcional no 5126064-6. Processo no SEI100001/002431/2022.</p>
+<p><b>NOMEAR LUIS FERNANDO PANELLI CESAR</b>, ID FUNCIONAL No 5097652-4, para exercer o cargo em comissao de Assessor-Chefe, simbolo DAS-8, da Assessoria de Governanca, da Secretaria de Estado de Transporte e Mobilidade Urbana, anteriormente ocupado por Eduardo Verano Mauro , ID Funcional no 5128458-8. Processo no SEI100001/000014/2023.</p>
+<p><b>NOMEAR SONIA ANTUNES DOS SANTOS MACHADO</b> para exercer, o cargo em comissao de Assistente II, simbolo DAI-6, da Secretaria de Estado de Transporte e Mobilidade Urbana, anteriormente ocupado por Romenia Muniz de Oliveira, ID Funcional no 5129094-4. Processo no SEI-100001/000081/2023.</p>
+<p><b>NOMEAR MOISES BARRETO DE SANTANA</b>, ID FUNCIONAL N 5114658-4, para exercer o cargo em comissao de Assessor, simbolo DAS-8, da Secretaria de Estado de Transporte e Mobilidade Urbana, anteriormente ocupado por Leonam dos Santos de Jesus, ID Funcional no 5129994-1. Processo no SEI-100001/000019/2023.</p>
+<p><b>EXONERAR MOISES BARRETO DE SANTANA</b>, ID FUNCIONAL N 5114658-4, do cargo em comissao de Chefe de Servico, simbolo DAI6, do Servico de Analise e Elaboracao de Orcamentos, da Gerencia de Projetos de Engenharia, da Diretoria de Recuperacao Ambiental, do Instituto Estadual do Ambiente - INEA, da Secretaria de Estado do Ambiente e Sustentabilidade. Processo no SEI-100001/000019/2023.</p>
+<p><b>Id: 2451195</b></p>
+<h1><b>Sala de Cultura </b>Leila Diniz</h1>
+<h1><b>Exposicoes Ofcinas Teatro Musica</b></h1>
+<h3><b>De segunda a sexta Das 8h as 17h</b></h3>
+<h3>@culturaleiladiniz</h3>
+<p>Rua Professor Heitor Carrilho, No 81, Centro, Niteroi, RJ <b>(21) 2717-5299</b></p> 
