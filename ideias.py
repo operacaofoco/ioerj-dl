@@ -27,5 +27,3 @@ with open('diarios.html','w+') as f:
         f.write(f'\n</tr></table>')
 #%%
 
-gl.meses
-# %%
