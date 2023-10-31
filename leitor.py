@@ -1,7 +1,7 @@
 #%%
 import re
 #%%
-with open('txts/DO_2023_9_22_ParteI.txt') as f:
+with open('txts/DO_2023_10_31_ParteI.txt') as f:
     do = f.readlines()
 # %%
 def limpa_tag(x):
@@ -22,9 +22,13 @@ find('<p><b>Id', do)
 # %%
 do[25:40]
 # %%
+find('<p><b>TORNAR SEM EFEITO', do)
+# %%
 find('<p><b>EXONERAR', do)
 # %%
 find('<p><b>NOMEAR', do)
+# %%
+find('<p><b>DEMITIR', do)
 # %%
 find('<p><b>ATOS DO', do)
 # %%
@@ -62,4 +66,16 @@ for file in files:
         print(cadernos)
         for caderno in cadernos:
             print(caderno)
+# %%
+
+d = {'FOCO':'FOCO',
+     'SEFAZ':'Mercadorias e Barreiras Fiscais'}
+for orgao in d.items():
+    with open(f'RH_{orgao[0]}.txt', 'w+') as rh:
+        for tipo in ['NOMEAR','EXONERAR','DEMITIR','TORNAR SEM EFEITO']:
+            files = os.listdir('txts/')
+            for file in files:
+                with open(f'txts/{file}') as f:
+                    do = f.readlines()
+                    rh.write('\n'.join([f'{file};linha {x[0]};{x[1]}' for x in find(f'<p><b>{tipo}', do) if orgao[1] in x[1]]))
 # %%
