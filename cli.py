@@ -1,3 +1,4 @@
+#%%
 import ioerj_dl as id
 import datetime as dt
 import conf
@@ -73,3 +74,5 @@ def main():
   }
 
   id.executarDO(conf)
+
+# %%

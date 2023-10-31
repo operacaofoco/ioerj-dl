@@ -1,3 +1,4 @@
+#%%
 from bs4 import BeautifulSoup
 from pathlib import Path
 import requests
@@ -247,3 +248,5 @@ def executarDO(conf: dict()):
         pass
       
       linkDia.download(conf)
+
+# %%
