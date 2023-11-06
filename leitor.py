@@ -68,14 +68,15 @@ for file in files:
             print(caderno)
 # %%
 
-d = {'FOCO':'FOCO',
+d = {'FOCO':'Operacao FOCO',
      'SEFAZ':'Mercadorias e Barreiras Fiscais'}
 for orgao in d.items():
     with open(f'RH_{orgao[0]}.txt', 'w+') as rh:
-        for tipo in ['NOMEAR','EXONERAR','DEMITIR','TORNAR SEM EFEITO']:
+        rh.write('DO;ANO;MES;DIA;PARTE;LINHA;ACAO;TEXTO')
+        for tipo in ['NOMEAR','EXONERAR','DEMITIR','TORNAR SEM EFEITO','REMOVE']:
             files = os.listdir('txts/')
             for file in files:
                 with open(f'txts/{file}') as f:
                     do = f.readlines()
-                    rh.write('\n'.join([f'{file};linha {x[0]};{x[1]}' for x in find(f'<p><b>{tipo}', do) if orgao[1] in x[1]]))
+                    rh.write(''.join([f'\n{file.replace(".txt","").replace("_",";")};{x[0]};{tipo};{x[1]}' for x in find(f'<p><b>{tipo}', do) if orgao[1].upper() in x[1].upper()]))
 # %%
