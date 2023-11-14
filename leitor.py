@@ -69,6 +69,7 @@ for file in files:
 # %%
 
 d = {'FOCO':'Operacao FOCO',
+     'DIVISAS':'Subsecretaria Especial de Controle de Divisas',
      'SEFAZ':'Mercadorias e Barreiras Fiscais'}
 for orgao in d.items():
     with open(f'RH_{orgao[0]}.txt', 'w+') as rh:
