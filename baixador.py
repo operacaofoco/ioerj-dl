@@ -8,8 +8,8 @@ conf = {'tipoDownload': 'periodo',
         'diretorio_pdf': 'pdfs/',
         'diretorio_txt': 'txts/',
         'cadernos': ['Parte I (Poder Executivo)'],
-        'dataInicio': fData('01/01/2021'),
-        'dataFim': fData('02/01/2023')    }
+        'dataInicio': fData('01/01/2022'),
+        'dataFim': fData('31/12/2023')    }
 
 ioerj_dl.executarDO(conf)
 # %%

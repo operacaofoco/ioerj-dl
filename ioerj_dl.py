@@ -53,8 +53,8 @@ def savePdf(urlPdf, conf):
   Path.mkdir(fullDir_pdf, exist_ok=True, parents=True)
   fullDir_txt = Path(conf['diretorio_txt'])
   Path.mkdir(fullDir_txt, exist_ok=True, parents=True)
-  nomeArq_pdf = f"DO_{conf['dataAtual'].year}_{conf['dataAtual'].month}_{conf['dataAtual'].day}_{conf['caderno']}.pdf"
-  nomeArq_txt = f"DO_{conf['dataAtual'].year}_{conf['dataAtual'].month}_{conf['dataAtual'].day}_{conf['caderno']}.txt"
+  nomeArq_pdf = f"DO_{conf['dataAtual'].year}_{str(conf['dataAtual'].month).zfill(2)}_{str(conf['dataAtual'].day).zfill(2)}_{conf['caderno']}.pdf"
+  nomeArq_txt = f"DO_{conf['dataAtual'].year}_{str(conf['dataAtual'].month).zfill(2)}_{str(conf['dataAtual'].day).zfill(2)}_{conf['caderno']}.txt"
   nomeFull_pdf = Path(fullDir_pdf, nomeArq_pdf)
   nomeFull_txt = Path(fullDir_txt, nomeArq_txt)
   try:
