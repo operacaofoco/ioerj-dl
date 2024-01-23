@@ -1,8 +1,5 @@
 #%%
 import re
-#%%
-with open('txts/DO_2023_10_31_ParteI.txt') as f:
-    do = f.readlines()
 # %%
 def limpa_tag(x):
     return re.sub(re.compile('<.*?>'),'',x).replace('\n', '')
@@ -40,10 +37,7 @@ for i in range(len(group1)-1):
     print(a,b)
     find('<p><b>Secretaria de Estado', do[a:b])
 print(group1[i+1][0], len(do))
-# %%
-a
-# %%
-do[-20:]
+
 # %%
 import os
 # %%
