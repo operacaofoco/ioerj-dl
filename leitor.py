@@ -41,25 +41,28 @@ print(group1[i+1][0], len(do))
 # %%
 import os
 # %%
-files = os.listdir('txts/')[:10]
+files = os.listdir('txts/')
 for file in files:
-    with open(f'txts/{file}') as f:
-        do = f.readlines()
-        poderes = find('<p><b>ATOS DO PODER', do)
-        poderes = [[a," ".join(b.split(' ')[:4])] for a,b in poderes]
-        poderes = list(zip(*poderes))
-        a = 0
-        atos = ['ATOS DO GOVERNADOR'] + list(poderes[1])
-        cadernos = []
-        for i in range(len(poderes[0])):
-            b = poderes[0][i]
-            cadernos.append([a, b, atos[i]])
-            a= poderes[0][i]
-        b = len(do)
-        cadernos.append([a, b, atos[i+1]])
-        print(cadernos)
-        for caderno in cadernos:
-            print(caderno)
+    try:
+        with open(f'txts/{file}') as f:
+            do = f.readlines()
+            poderes = find('<p><b>ATOS DO PODER', do)
+            poderes = [[a," ".join(b.split(' ')[:4])] for a,b in poderes]
+            poderes = list(zip(*poderes))
+            a = 0
+            atos = ['ATOS DO GOVERNADOR'] + list(poderes[1])
+            cadernos = []
+            for i in range(len(poderes[0])):
+                b = poderes[0][i]
+                cadernos.append([a, b, atos[i]])
+                a= poderes[0][i]
+            b = len(do)
+            cadernos.append([a, b, atos[i+1]])
+            print(cadernos)
+            for caderno in cadernos:
+                print(caderno)
+    except:
+        pass
 # %%
 
 d = {'FOCO':'Operacao FOCO',
