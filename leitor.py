@@ -65,7 +65,10 @@ for file in files:
         pass
 # %%
 
-d = {'FOCO':'Operacao FOCO',
+d = {'policia':'policia',
+    'GOVERNO VP':'SIMBOLO VP',
+     'GOVERNO S':'SIMBOLO S',
+    'FOCO':'Operacao FOCO',
      'DIVISAS':'Subsecretaria Especial de Controle de Divisas',
      'SEFAZ':'Mercadorias e Barreiras Fiscais'}
 for orgao in d.items():
