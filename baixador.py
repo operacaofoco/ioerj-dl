@@ -13,3 +13,5 @@ conf = {'tipoDownload': 'periodo',
 
 ioerj_dl.executarDO(conf)
 # %%
+print('fim')
+# %%
